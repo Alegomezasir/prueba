@@ -1,0 +1,767 @@
+# Translation of Plugins - Announcer &#8211; Sticky Message Banner, Notification Bar &#8211; Add to Top, Bottom of your Website - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Announcer &#8211; Sticky Message Banner, Notification Bar &#8211; Add to Top, Bottom of your Website - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-08-09 15:28:09+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.11\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Announcer &#8211; Sticky Message Banner, Notification Bar &#8211; Add to Top, Bottom of your Website - Stable (latest release)\n"
+
+#: admin/settings-form.php:660
+msgid "Padding"
+msgstr "Relleno"
+
+#: admin/settings-form.php:668
+msgid "Extra padding for the announcement bar if required. Leave blank to use default."
+msgstr "Relleno adicional para la barra de anuncios, si es necesario. Déjalo en blanco para usar el valor por defecto."
+
+#: admin/settings-form.php:213
+msgid "Announcement will be inserted in the page, but it will be hidden. Please refer <a href=\"https://www.aakashweb.com/docs/announcer/js-api/\" target=\"_blank\">the announcer JavaScript API documentation</a> to show/hide the announcement on your own."
+msgstr "El anuncio se insertará en la página, pero estará oculto. Por favor, consulta <a href=\"https://www.aakashweb.com/docs/announcer/js-api/\" target=\"_blank\">la documentación de la API de JavaScript del anunciador</a> para mostrar/ocultar el anuncio por tu cuenta."
+
+#: admin/settings-form.php:211
+msgid "Custom"
+msgstr "Personalizado"
+
+#: admin/settings-form.php:326
+msgid "Order"
+msgstr "Orden"
+
+#: admin/settings-form.php:332
+msgid "The order of the announcement when multiple announcements are stacked in a page (ascending order). Leave default to 0 instead."
+msgstr "El orden del anuncio cuando se apilan varios anuncios en una página (orden ascendente). En su lugar, deja el valor 0 por defecto."
+
+#: includes/location-rules/index.php:632
+msgid "No terms !"
+msgstr "¡Sin términos!"
+
+#: includes/location-rules/index.php:557
+msgid "No taxonomies !"
+msgstr "¡Sin taxonomías!"
+
+#: includes/location-rules/index.php:165
+msgid "Select available terms"
+msgstr "Seleccionar términos disponibles"
+
+#: includes/location-rules/index.php:131
+msgid "Select available taxonomy archive pages"
+msgstr "Seleccionar páginas de archivo de taxonomía disponibles"
+
+#: admin/settings-form.php:811
+msgid "Close announcement on click"
+msgstr "Cerrar el anuncio al hacer clic"
+
+#: admin/settings-form.php:756
+msgid "Hover text"
+msgstr "Texto al pasar el cursor"
+
+#: admin/settings-form.php:737
+msgid "Button type"
+msgstr "Tipo de botón"
+
+#: admin/settings-form.php:157
+msgid "Preview"
+msgstr "Vista previa"
+
+#: admin/settings-form.php:83
+msgid "More features"
+msgstr "Más características"
+
+#: admin/admin.php:176
+msgid "Upgrade"
+msgstr "Actualizar"
+
+#: admin/admin.php:175
+msgid "Manage"
+msgstr "Gestionar"
+
+#: admin/admin.php:142
+msgid "Enter your announcement message here"
+msgstr "Introduce tu mensaje de anuncio aquí"
+
+#: admin/edit.php:52
+msgid "Supports - HTML, Shortcodes, emojis"
+msgstr "Es compatible con: HTML, shortcodes y emojis"
+
+#. Description of the plugin
+msgid "Add notification bar to your site and display any message like welcome message, promotions, coupons, news banner to the top/bottom of the page."
+msgstr "Añade una barra de aviso a tu sitio y muestra cualquier mensaje como mensaje de bienvenida, promociones, cupones, banner de noticias en la parte superior/inferior de la página."
+
+#: admin/settings-form.php:578
+msgid "To set gradient as background, generate the gradient <a href=\"https://cssgradient.io/\" target=\"_blank\">in this page</a> and paste the value here. Example value: <code>linear-gradient(45deg, red, blue)</code> without semicolon"
+msgstr "Para establecer el degradado como fondo, genera el degradado <a href=\"https://cssgradient.io/\" target=\"_blank\">en esta página</a> y pega el valor aquí. Valor de ejemplo: <code>linear-gradient(45deg, red, blue)</code> sin punto y coma"
+
+#: includes/location-rules/index.php:535 includes/location-rules/index.php:610
+msgid "No tags !"
+msgstr "¡Sin etiquetas!"
+
+#: includes/location-rules/index.php:512 includes/location-rules/index.php:588
+msgid "No categories !"
+msgstr "¡Sin categorías!"
+
+#: includes/location-rules/index.php:437
+msgid "No pages !"
+msgstr "¡Sin páginas!"
+
+#: includes/location-rules/index.php:415
+msgid "No posts !"
+msgstr "¡No hay entradas!"
+
+#: includes/location-rules/index.php:391
+msgid "Remove criteria"
+msgstr "Quitar criterios"
+
+#: includes/location-rules/index.php:391
+msgid "Leave empty to show in all"
+msgstr "Dejar vacío para mostrar en todos"
+
+#: includes/location-rules/index.php:349
+msgid "Add another page"
+msgstr "Añadir otra página"
+
+#: includes/location-rules/index.php:335
+msgid "No page rules are added. Template will be hidden everywhere"
+msgstr "No se añaden reglas de página. La plantilla estará oculta en todas las partes"
+
+#: includes/location-rules/index.php:311
+msgid "Hide in selected pages"
+msgstr "Ocultar en las páginas seleccionadas"
+
+#: includes/location-rules/index.php:310
+msgid "Show in selected pages"
+msgstr "Mostrar en páginas seleccionadas"
+
+#: includes/location-rules/index.php:309
+msgid "Hide in all pages"
+msgstr "Ocultar en todas las páginas"
+
+#: includes/location-rules/index.php:308
+msgid "Show in all pages"
+msgstr "Mostrar en todas las páginas"
+
+#: includes/location-rules/index.php:278
+msgid "Invalid rule id !"
+msgstr "ID de regla no válido."
+
+#: includes/location-rules/index.php:158
+msgid "Select available tags"
+msgstr "Seleccionar etiquetas disponibles"
+
+#: includes/location-rules/index.php:151
+msgid "Select available categories"
+msgstr "Seleccionar categorías disponibles"
+
+#: includes/location-rules/index.php:124
+msgid "Select available tag archive pages"
+msgstr "Seleccionar páginas de archivo de etiquetas disponibles"
+
+#: includes/location-rules/index.php:117
+msgid "Select available category archive pages"
+msgstr "Seleccionar páginas de archivo de categorías disponibles"
+
+#: includes/location-rules/index.php:61
+msgid "Select specific pages"
+msgstr "Seleccionar páginas específicas"
+
+#: includes/location-rules/index.php:53
+msgid "Select specific posts"
+msgstr "Seleccionar entradas específicas"
+
+#: admin/edit.php:23
+msgid "Get updates"
+msgstr "Obtener actualizaciones"
+
+#: admin/edit.php:21
+msgid "Settings"
+msgstr "Ajustes"
+
+#: admin/manage.php:81
+msgid "Not set. Always show"
+msgstr "No establecido. Siempre se muestra"
+
+#: admin/manage.php:77
+msgid "after "
+msgstr "después"
+
+#: admin/manage.php:45
+msgid "Scheduled "
+msgstr "Programado"
+
+#: admin/manage.php:40
+msgid "Bottom"
+msgstr "Abajo"
+
+#: admin/manage.php:39
+msgid "Top"
+msgstr "Arriba"
+
+#: admin/manage.php:22
+msgid "Colors"
+msgstr "Colores"
+
+#: admin/settings-form.php:819
+msgid "Delete button"
+msgstr "Borrar botón"
+
+#: admin/settings-form.php:785
+msgid "Open link in"
+msgstr "Abrir el enlace en"
+
+#: admin/settings-form.php:782
+msgid "Open in same window"
+msgstr "Abrir en la misma ventana"
+
+#: admin/settings-form.php:781
+msgid "Open in new window"
+msgstr "Abrir en una nueva ventana"
+
+#: admin/settings-form.php:772
+msgid "Link URL"
+msgstr "URL del enlace"
+
+#: admin/settings-form.php:746
+msgid "Close announcement"
+msgstr "Cerrar anuncio"
+
+#: admin/settings-form.php:745
+msgid "Open link"
+msgstr "Abrir enlace"
+
+#: admin/settings-form.php:673
+msgid "Shadow"
+msgstr "Sombra"
+
+#: admin/settings-form.php:654
+msgid "The width of the item. Include units like px, %. Example: 200px. Leave empty to take auto width."
+msgstr "El ancho del elemento. Incluye unidades como px,%. Ejemplo: 200px. Déjalo vacío para tomar el ancho automático."
+
+#: admin/settings-form.php:640
+msgid "Rounded corner radius"
+msgstr "Radio de esquina redondeado"
+
+#: admin/settings-form.php:627
+msgid "Style"
+msgstr "Estilo"
+
+#: admin/settings-form.php:617 admin/settings-form.php:649
+msgid "Width"
+msgstr "Ancho"
+
+#: admin/settings-form.php:612
+msgid "Border"
+msgstr "Borde"
+
+#: admin/settings-form.php:608 admin/settings-form.php:644
+msgid "Leave empty to take default theme settings."
+msgstr "Déjalo en blanco para tomar los ajustes predeterminados del tema."
+
+#: admin/settings-form.php:604
+msgid "Link color"
+msgstr "Color del enlace"
+
+#: admin/settings-form.php:596
+msgid "px"
+msgstr "px"
+
+#: admin/settings-form.php:595 admin/settings-form.php:697
+msgid "Size"
+msgstr "Tamaño"
+
+#: admin/settings-form.php:588 admin/settings-form.php:633
+msgid "Color"
+msgstr "Color"
+
+#: admin/settings-form.php:583
+msgid "Font"
+msgstr "Fuente"
+
+#: admin/settings-form.php:573
+msgid "Background color"
+msgstr "Color del fondo"
+
+#: admin/settings-form.php:551
+msgid "On desktops alone"
+msgstr "Solo en escritorios"
+
+#: admin/settings-form.php:550
+msgid "On mobile devices alone"
+msgstr "Solo en dispositivos móviles"
+
+#: admin/settings-form.php:549
+msgid "On both desktop and mobile devices"
+msgstr "En dispositivos móviles y de escritorio"
+
+#: admin/settings-form.php:544
+msgid "Show on devices"
+msgstr "Mostrar en dispositivos"
+
+#: admin/settings-form.php:540
+msgid "Display conditions"
+msgstr "Condiciones de visualización"
+
+#: admin/settings-form.php:526
+msgid "days"
+msgstr "días"
+
+#: admin/settings-form.php:486
+msgid "On close animation"
+msgstr "Animación al cerrar"
+
+#: admin/settings-form.php:463
+msgid "Automatically close after"
+msgstr "Cerrar automáticamente después"
+
+#: admin/settings-form.php:451
+msgid "Display close button"
+msgstr "Mostrar el botón de cierre"
+
+#: admin/settings-form.php:380
+msgid "The width of the announcement container. Include units like px, %. Example: 1000px."
+msgstr "El ancho del contenedor de anuncios. Incluye unidades como px,%. Ejemplo: 1000px."
+
+#: admin/settings-form.php:375
+msgid "Container width"
+msgstr "Ancho del contenedor"
+
+#: admin/settings-form.php:371
+msgid "Select the text alignment of the announcement message"
+msgstr "Selecciona la alineación del texto del mensaje de anuncio"
+
+#: admin/settings-form.php:368
+msgid "Right"
+msgstr "Derecha"
+
+#: admin/settings-form.php:367
+msgid "Center"
+msgstr "Centrado"
+
+#: admin/settings-form.php:366
+msgid "Left"
+msgstr "Izquierda"
+
+#: admin/settings-form.php:361
+msgid "Content alignment"
+msgstr "Alineación del contenido"
+
+#: admin/settings-form.php:354
+msgid "Separate row"
+msgstr "Fila separada"
+
+#: admin/settings-form.php:353
+msgid "Separate column"
+msgstr "Columna separada"
+
+#: admin/settings-form.php:352
+msgid "Same row"
+msgstr "Misma fila"
+
+#: admin/settings-form.php:322
+msgid "Select to stick the announcement to the window."
+msgstr "Selecciona para pegar el anuncio en la ventana."
+
+#: admin/manage.php:50 admin/settings-form.php:319 admin/settings-form.php:414
+#: admin/settings-form.php:457 admin/settings-form.php:480
+#: admin/settings-form.php:679 admin/settings-form.php:794
+#: admin/settings-form.php:807
+msgid "No"
+msgstr "No"
+
+#: admin/manage.php:49 admin/settings-form.php:318 admin/settings-form.php:413
+#: admin/settings-form.php:456 admin/settings-form.php:479
+#: admin/settings-form.php:678 admin/settings-form.php:795
+#: admin/settings-form.php:808
+msgid "Yes"
+msgstr "Sí"
+
+#: admin/manage.php:21 admin/settings-form.php:313
+msgid "Sticky"
+msgstr "Fijo"
+
+#: admin/settings-form.php:307
+msgid "Bottom of the page"
+msgstr "Final de la página"
+
+#: admin/settings-form.php:306
+msgid "Top of the page"
+msgstr "Parte superior de la página "
+
+#: admin/settings-form.php:301
+msgid "Position of the announcement"
+msgstr "Posición del anuncio"
+
+#: admin/settings-form.php:285 admin/settings-form.php:493
+msgid "Fade"
+msgstr "Desvanecer"
+
+#: admin/settings-form.php:284 admin/settings-form.php:492
+msgid "Slide"
+msgstr "Deslizar"
+
+#: admin/settings-form.php:283 admin/settings-form.php:491
+msgid "None"
+msgstr "Ninguno"
+
+#: admin/settings-form.php:267
+msgid "Show after page scroll"
+msgstr "Mostrar después del scroll de página"
+
+#: admin/settings-form.php:278
+msgid "On show animation"
+msgstr "Mostrar animación"
+
+#: admin/settings-form.php:256
+msgid "Show after duration"
+msgstr "Mostrar después de la duración"
+
+#: admin/settings-form.php:249
+msgid "After a duration"
+msgstr "Después de una duración"
+
+#: admin/manage.php:44 admin/settings-form.php:248
+msgid "Immediate"
+msgstr "Inmediato"
+
+#: admin/settings-form.php:243
+msgid "Show announcement on page"
+msgstr "Mostrar anuncio en la página"
+
+#: admin/settings-form.php:239
+msgid "Select the date range between which the announcement should be shown."
+msgstr "Selecciona el intervalo de fechas entre el cual se debe mostrar el anuncio."
+
+#: admin/settings-form.php:236
+msgid "To"
+msgstr "A"
+
+#: admin/settings-form.php:228
+msgid "From"
+msgstr "De"
+
+#: admin/settings-form.php:210
+msgid "Schedule"
+msgstr "Programación"
+
+#: admin/settings-form.php:209
+msgid "Immediately"
+msgstr "Inmediatamente"
+
+#: admin/settings-form.php:204
+msgid "Display the announcement"
+msgstr "Mostrar el anuncio"
+
+#: admin/settings-form.php:188
+msgid "Add button"
+msgstr "Añadir botón"
+
+#: admin/settings-form.php:748
+msgid "On click"
+msgstr "Al hacer clic"
+
+#: admin/settings-form.php:726
+msgid "Button text"
+msgstr "Texto del botón"
+
+#: admin/settings-form.php:178
+msgid "Add buttons to the announcement"
+msgstr "Añadir botones al anuncio"
+
+#: admin/settings-form.php:166
+msgid "Inactive"
+msgstr "Inactivo"
+
+#: admin/settings-form.php:165
+msgid "Active"
+msgstr "Activo"
+
+#: admin/manage.php:18 admin/settings-form.php:161
+msgid "Status"
+msgstr "Estado"
+
+#: admin/settings-form.php:77
+msgid "Location rules"
+msgstr "Reglas de ubicación"
+
+#: admin/settings-form.php:70 admin/settings-form.php:508
+msgid "Keep closed"
+msgstr "Mantener cerrado"
+
+#: admin/settings-form.php:66
+msgid "General"
+msgstr "General"
+
+#: admin/settings-form.php:62
+msgid "Close"
+msgstr "Cerrar"
+
+#: admin/manage.php:93 admin/settings-form.php:55 admin/settings-form.php:734
+msgid "Secondary button"
+msgstr "Botón secundario"
+
+#: admin/manage.php:92 admin/settings-form.php:51 admin/settings-form.php:733
+msgid "Primary button"
+msgstr "Botón principal"
+
+#: admin/manage.php:91 admin/settings-form.php:47
+msgid "Bar"
+msgstr "Barra"
+
+#: admin/settings-form.php:37 admin/settings-form.php:347
+msgid "Layout"
+msgstr "Estructura"
+
+#: admin/settings-form.php:43
+msgid "Design"
+msgstr "Diseño"
+
+#: admin/manage.php:20 admin/settings-form.php:31
+msgid "Position"
+msgstr "Posición"
+
+#: admin/manage.php:19 admin/settings-form.php:25
+msgid "Display"
+msgstr "Mostrar"
+
+#: admin/settings-form.php:19
+msgid "Call to Actions"
+msgstr "Llamada a la acción"
+
+#: admin/admin.php:107
+msgid "Tags list navigation"
+msgstr "Navegación por la lista de etiquetas"
+
+#: admin/admin.php:106
+msgid "Tags list"
+msgstr "Lista de etiquetas"
+
+#: admin/admin.php:105
+msgid "No tags"
+msgstr "Sin etiquetas"
+
+#: admin/admin.php:104
+msgid "Not Found"
+msgstr "No se ha encontrado"
+
+#: admin/admin.php:103
+msgid "Search Tags"
+msgstr "Buscar etiquetas"
+
+#: admin/admin.php:102
+msgid "Popular Tags"
+msgstr "Etiquetas populares"
+
+#: admin/admin.php:101
+msgid "Choose from the most used"
+msgstr "Elige entre las más usadas"
+
+#: admin/admin.php:100
+msgid "Add or remove tags"
+msgstr "Añadir o eliminar etiquetas"
+
+#: admin/admin.php:99
+msgid "Separate tags with commas"
+msgstr "Separa las etiquetas con comas"
+
+#: admin/admin.php:98
+msgid "View Tag"
+msgstr "Ver etiqueta"
+
+#: admin/admin.php:97
+msgid "Update Tag"
+msgstr "Actualizar la etiqueta"
+
+#: admin/admin.php:96
+msgid "Edit Tag"
+msgstr "Editar la etiqueta"
+
+#: admin/admin.php:95
+msgid "Add New Tag"
+msgstr "Añadir una nueva etiqueta"
+
+#: admin/admin.php:94
+msgid "New Tag Name"
+msgstr "Nombre de la nueva etiqueta"
+
+#: admin/admin.php:93
+msgid "Parent Tag:"
+msgstr "Etiqueta superior:"
+
+#: admin/admin.php:92
+msgid "Parent Tag"
+msgstr "Etiqueta superior"
+
+#: admin/admin.php:91
+msgid "All Tags"
+msgstr "Todas las etiquetas"
+
+#: admin/admin.php:90
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: admin/admin.php:89
+msgctxt "Taxonomy Singular Name"
+msgid "Tag"
+msgstr "Etiqueta"
+
+#: admin/admin.php:88
+msgctxt "Taxonomy General Name"
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: admin/admin.php:61
+msgid "Announcement"
+msgstr "Anuncio"
+
+#: admin/admin.php:57
+msgid "Filter Announcements list"
+msgstr "Filtro de la lista de anunciós"
+
+#: admin/admin.php:56
+msgid "Announcements list navigation"
+msgstr "Navegación por la lista de anuncios"
+
+#: admin/admin.php:55
+msgid "Announcements list"
+msgstr "Lista de anuncios"
+
+#: admin/admin.php:54
+msgid "Uploaded to this item"
+msgstr "Subido a este elemento"
+
+#: admin/admin.php:53
+msgid "Insert into item"
+msgstr "Insertar en el elemento"
+
+#: admin/admin.php:52
+msgid "Use as featured image"
+msgstr "Usar como imagen destacada"
+
+#: admin/admin.php:51
+msgid "Remove featured image"
+msgstr "Eliminar imagen destacada"
+
+#: admin/admin.php:50
+msgid "Set featured image"
+msgstr "Establecer imagen destacada"
+
+#: admin/admin.php:49
+msgid "Featured Image"
+msgstr "Imagen destacada"
+
+#: admin/admin.php:48
+msgid "Not found in Trash"
+msgstr "No se ha encontrado en la papelera"
+
+#: admin/admin.php:47
+msgid "Not found"
+msgstr "No encontrado"
+
+#: admin/admin.php:46
+msgid "Search announcement"
+msgstr "Buscar anuncios"
+
+#: admin/admin.php:45
+msgid "View announcements"
+msgstr "Ver anuncios"
+
+#: admin/admin.php:44
+msgid "View announcement"
+msgstr "Ver el anuncio"
+
+#: admin/admin.php:43
+msgid "Update announcement"
+msgstr "Anuncio de actualización"
+
+#: admin/admin.php:42
+msgid "Edit announcement"
+msgstr "Editar el anuncio"
+
+#: admin/admin.php:41
+msgid "New announcement"
+msgstr "Nuevo anuncio"
+
+#: admin/admin.php:40
+msgid "Add announcement"
+msgstr "Añadir un anuncio"
+
+#: admin/admin.php:39
+msgid "Add New announcement"
+msgstr "Añadir nuevo anuncio"
+
+#: admin/admin.php:38
+msgid "All announcements"
+msgstr "Todos los anuncios"
+
+#: admin/admin.php:37
+msgid "Parent announcement:"
+msgstr "Anuncio principal:"
+
+#: admin/admin.php:35
+msgid "Announcement Archives"
+msgstr "Archivos de anuncios"
+
+#: admin/admin.php:31
+msgctxt "Post Type General Name"
+msgid "Announcer"
+msgstr "Anunciador"
+
+#. Author URI of the plugin
+msgid "https://www.aakashweb.com/"
+msgstr "https://www.aakashweb.com/"
+
+#. Author of the plugin
+msgid "Aakash Chakravarthy"
+msgstr "Aakash Chakravarthy"
+
+#. Plugin URI of the plugin
+msgid "https://www.aakashweb.com/wordpress-plugins/announcer/"
+msgstr "https://www.aakashweb.com/wordpress-plugins/announcer/"
+
+#: admin/manage.php:79
+msgid "till "
+msgstr "hasta"
+
+#: includes/location-rules/index.php:391
+msgid "Add another criteria to match"
+msgstr "Añadir otro criterio para que coincida"
+
+#: includes/location-rules/index.php:286
+msgid "No selections supported for this page !"
+msgstr "¡Las selecciones no son compatibles para esta página!"
+
+#: admin/manage.php:75
+msgid "between "
+msgstr "entre"
+
+#: admin/settings-form.php:527
+msgid "Enter the number of days the announcement has to be kept closed. Enter 0 for only the user session."
+msgstr "Introduce el número de días que el anuncio debe permanecer cerrado. Introduce 0 solo para la sesión de usuario."
+
+#: admin/settings-form.php:520
+msgid "Keep closed for duration"
+msgstr "Mantener cerrado durante el tiempo"
+
+#: admin/settings-form.php:250
+msgid "After page scroll"
+msgstr "Después del scroll de la página"
+
+#. Plugin Name of the plugin
+#: admin/admin.php:33 admin/admin.php:34
+msgid "Announcer"
+msgstr "Announcer"
+
+#: admin/admin.php:32
+msgctxt "Post Type Singular Name"
+msgid "Announcement"
+msgstr "Aviso"
+
+#: admin/admin.php:36
+msgid "Announcement Attributes"
+msgstr "Atributos del aviso"
+
+#: admin/settings-form.php:221
+msgid "Schedule duration"
+msgstr "Duración de la programación"

@@ -1,0 +1,670 @@
+# Translation of Themes - One Business Blocks in Spanish (Spain)
+# This file is distributed under the same license as the Themes - One Business Blocks package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-04-21 10:09:39+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: es\n"
+"Project-Id-Version: Themes - One Business Blocks\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "One Business Blocks is an excellent website template designed to elevate your online presence. Ideal for businesses of all sizes, it provides a dynamic platform with a sleek and modern aesthetic. Crafted for versatility, it suits various industries, from corporate firms to creative agencies and startups. With a clean and professional design, the theme captivates visitors at first glance, ensuring a positive impression. Its layout is optimized for user engagement and seamless navigation, emphasizing the key elements of your business. One of the standout benefits lies in its adaptability. The theme effortlessly caters to diverse content needs, whether you're showcasing products, promoting services, or sharing valuable insights. Its user-friendly customization options empower you to tailor the theme to match your brand identity seamlessly. Moreover, the One Business Blocks WordPress Theme is built for performance, ensuring a responsive and visually appealing experience across devices. Its fast-loading pages enhance user satisfaction, contributing to a positive interaction with your business. Take advantage of the theme's SEO optimization to boost your online visibility and attract a broader audience. Social media integration further amplifies your reach, allowing you to connect with your audience on multiple platforms."
+msgstr "One Business Blocks es una excelente plantilla de sitio web diseñada para elevar tu presencia en línea. Ideal para empresas de todos los tamaños, proporciona una plataforma dinámica con una estética elegante y moderna. Diseñada para ser versátil, se adapta a varios sectores, desde empresas corporativas hasta agencias creativas y startups. Con un diseño limpio y profesional, el tema cautiva a los visitantes a primera vista, garantizando una impresión positiva. Su diseño está optimizado para la participación del usuario y una navegación fluida, haciendo hincapié en los elementos clave de tu negocio. Una de las ventajas más destacadas es su adaptabilidad. El tema satisface sin esfuerzo diversas necesidades de contenido, tanto si estás mostrando productos, promocionando servicios o compartiendo información valiosa. Sus sencillas opciones de personalización te permiten adaptar el tema para que se ajuste perfectamente a la identidad de tu marca. Además, el tema de WordPress One Business Blocks está diseñado para mejorar el rendimiento, garantizando una experiencia adaptable y visualmente atractiva en todos los dispositivos. Sus páginas de carga rápida mejoran la satisfacción del usuario, contribuyendo a una interacción positiva con tu negocio. Aprovecha la optimización SEO del tema para aumentar tu visibilidad online y atraer a un público más amplio. La integración con los medios sociales amplifica aún más tu alcance, permitiéndote conectar con tu público en múltiples plataformas."
+
+#. Theme Name of the theme
+#: style.css block-patterns.php:17
+#, gp-priority: high
+msgid "One Business Blocks"
+msgstr "One Business Blocks"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Pie de página"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Cabecera"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page Right Sidebar"
+msgstr "Barra lateral derecha de página"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page Left Sidebar"
+msgstr "Barra lateral izquierda de la página"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Right Sidebar(Archieve posts)"
+msgstr "Barra lateral derecha (entradas del archivo)"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Left Sidebar(Archieve posts)"
+msgstr "Barra lateral izquierda (entradas del archivo)"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Grid Layout(Archieve posts)"
+msgstr "Diseño de cuadrícula (entradas del archivo)"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: patterns/footer.php:105
+msgid "One Business Blocks WordPress Theme"
+msgstr "Tema de WordPress One Business Blocks"
+
+#: functions.php:70
+msgid "For information and detailed instructions, check out our theme documentation."
+msgstr "Para obtener información e instrucciones detalladas, consulta la documentación de nuestro tema."
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Secundario"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Principal"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Headings"
+msgstr "Encabezados"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Section Background"
+msgstr "Fondo de la sección"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Body Text"
+msgstr "Texto del cuerpo"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Base"
+msgstr "Base"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Rubik"
+msgstr "Rubik"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Barlow"
+msgstr "Barlow"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Roboto"
+msgstr "Roboto"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Banner Title"
+msgstr "Título del banner"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Gigantic"
+msgstr "Gigantesca"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Huge"
+msgstr "Enorme"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Big"
+msgstr "Grande"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "Extragrande"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Grande"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Regular"
+msgstr "Normal"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Mediana"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Pequeña"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Small"
+msgstr "Extra pequeña"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Body Text"
+msgstr "Texto del cuerpo"
+
+#: theme.json
+msgctxt "Style variation name"
+msgid "Lite"
+msgstr "Lite"
+
+#: patterns/trust-us.php
+msgctxt "Pattern title"
+msgid "Trust Us"
+msgstr "Confía en nosotros"
+
+#: patterns/single.php
+msgctxt "Pattern title"
+msgid "Single Post"
+msgstr "Entrada individual"
+
+#: patterns/sidebar.php
+msgctxt "Pattern title"
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: patterns/search.php
+msgctxt "Pattern title"
+msgid "Search"
+msgstr "Buscar"
+
+#: patterns/records.php
+msgctxt "Pattern title"
+msgid "Records"
+msgstr "Registros"
+
+#: patterns/profit-graph.php
+msgctxt "Pattern title"
+msgid "Profit Graph"
+msgstr "Gráfico de beneficios"
+
+#: patterns/page-title.php
+msgctxt "Pattern title"
+msgid "Page Title"
+msgstr "Título de la página"
+
+#: patterns/page-content.php
+msgctxt "Pattern title"
+msgid "Page Content"
+msgstr "Contenido de la página"
+
+#: patterns/our-skills.php
+msgctxt "Pattern title"
+msgid "Our Skills"
+msgstr "Nuestras habilidades"
+
+#: patterns/our-services.php
+msgctxt "Pattern title"
+msgid "Our Services"
+msgstr "Nuestros servicios"
+
+#: patterns/latest-news.php
+msgctxt "Pattern title"
+msgid "Latest News"
+msgstr "Últimas noticias"
+
+#: patterns/header.php
+msgctxt "Pattern title"
+msgid "Header"
+msgstr "Cabecera"
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Footer"
+msgstr "Pie de página"
+
+#: patterns/blog-right-sidebar.php
+msgctxt "Pattern title"
+msgid "Blog Right Sidebar"
+msgstr "Barra lateral derecha del blog"
+
+#: patterns/blog-left-sidebar.php
+msgctxt "Pattern title"
+msgid "Blog Left Sidebar"
+msgstr "Barra lateral izquierda del blog"
+
+#: patterns/blog-grid-layout.php
+msgctxt "Pattern title"
+msgid "Blog Grid Layout"
+msgstr "Diseño de cuadrícula del blog"
+
+#: patterns/banner.php
+msgctxt "Pattern title"
+msgid "Banner"
+msgstr "Banner"
+
+#: patterns/archive.php
+msgctxt "Pattern title"
+msgid "Archives"
+msgstr "Archivo"
+
+#: patterns/about-us.php
+msgctxt "Pattern title"
+msgid "About Us"
+msgstr "Quiénes somos"
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "Page Not Found"
+msgstr "No se ha encontrado la página"
+
+#: patterns/trust-us.php:30 patterns/trust-us.php:40 patterns/trust-us.php:50
+msgid "Lorem ipsum: 1(868) 225-6155"
+msgstr "Lorem ipsum: 1(868) 225-6155"
+
+#: patterns/trust-us.php:13
+msgid "trust us"
+msgstr "confía en nosotros"
+
+#: patterns/sidebar.php:72
+msgid "Follow Us"
+msgstr "Síguenos"
+
+#: patterns/sidebar.php:62
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: patterns/sidebar.php:52
+msgid "Archives"
+msgstr "Archivo"
+
+#: patterns/sidebar.php:42
+msgid "Categories"
+msgstr "Categorías"
+
+#: patterns/sidebar.php:22
+msgid "Popular Posts"
+msgstr "Entradas populares"
+
+#: patterns/search.php:62
+msgid "It seems we can’t find what you’re looking for. Perhaps searching can help."
+msgstr "Parece que no encontramos lo que estás buscando. Puede que una búsqueda te ayude."
+
+#: patterns/records.php:63
+msgid "Countries Served"
+msgstr "Países atendidos"
+
+#: patterns/records.php:59
+msgid "80+"
+msgstr "Más de 80"
+
+#: patterns/records.php:49
+msgid "Experts Employee"
+msgstr "Expertos empleados"
+
+#: patterns/records.php:45
+msgid "600%"
+msgstr "600%"
+
+#: patterns/records.php:35
+msgid "Successfull Projects"
+msgstr "Proyectos con éxito"
+
+#: patterns/records.php:31
+msgid "1,200+"
+msgstr "Más de 1.200"
+
+#: patterns/records.php:21
+msgid "Experienced Consultants"
+msgstr "Consultores experimentados"
+
+#: patterns/records.php:17
+msgid "15k"
+msgstr "15.000"
+
+#: patterns/profit-graph.php:15
+msgid "Profit Graph"
+msgstr "Gráfico de beneficios"
+
+#: patterns/our-skills.php:148
+msgid "Success fullfill"
+msgstr "Éxito pleno"
+
+#: patterns/our-skills.php:132
+msgid "Business Growth"
+msgstr "El crecimiento del negocio"
+
+#: patterns/our-skills.php:100
+msgid "Monitoring &amp; Review"
+msgstr "Supervisión y revisión"
+
+#: patterns/our-skills.php:78
+msgid "Compehensive Advices"
+msgstr "Consejos completos"
+
+#: patterns/our-skills.php:62
+msgid "Leadership Work"
+msgstr "Trabajo de liderazgo"
+
+#: patterns/our-skills.php:46
+msgid "Authorised Finance Brand"
+msgstr "Marca de financiación autorizada"
+
+#: patterns/our-skills.php:34 patterns/our-skills.php:50
+#: patterns/our-skills.php:66 patterns/our-skills.php:82
+#: patterns/our-skills.php:104 patterns/our-skills.php:120
+#: patterns/our-skills.php:136 patterns/our-skills.php:152
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do"
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do"
+
+#: patterns/our-skills.php:30
+msgid "Best Financial Advice"
+msgstr "El mejor asesoramiento financiero"
+
+#: patterns/our-skills.php:11
+msgid "our skills"
+msgstr "nuestras habilidades"
+
+#: patterns/our-services.php:90
+msgid "tax planning"
+msgstr "planificación fiscal"
+
+#: patterns/our-services.php:70 patterns/our-skills.php:116
+msgid "Finance Advices"
+msgstr "Consejos financieros"
+
+#: patterns/our-services.php:50
+msgid "Authorise Company"
+msgstr "Empresa autorizada"
+
+#: patterns/our-services.php:30
+msgid "tax advantages"
+msgstr "ventajas fiscales"
+
+#: patterns/our-services.php:11
+msgid "our services"
+msgstr "nuestros servicios"
+
+#: patterns/latest-news.php:45
+msgid "There is no post found"
+msgstr "No se ha encontrado entradas"
+
+#: patterns/latest-news.php:15
+msgid "LATEST NEWS"
+msgstr "ÚLTIMAS NOTICIAS"
+
+#: patterns/header.php:91
+msgid "Let’s Talk"
+msgstr "Hablemos"
+
+#: patterns/footer.php:109
+msgid "WordPress"
+msgstr "WordPress"
+
+#: patterns/footer.php:109
+msgid "and"
+msgstr "y"
+
+#: patterns/footer.php:109
+msgid "Ovation Themes"
+msgstr "Ovation Themes"
+
+#: patterns/footer.php:109
+msgid "Proudly powered by "
+msgstr "Funciona gracias a "
+
+#: patterns/footer.php:90
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+
+#: patterns/footer.php:86 patterns/sidebar.php:12
+msgid "Search"
+msgstr "Buscar"
+
+#: patterns/footer.php:70
+msgid "Quick Links"
+msgstr "Enlaces rápidos"
+
+#: patterns/footer.php:54 patterns/profit-graph.php:32
+#: patterns/profit-graph.php:42
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis quis euismod tortor. Nullam vitae eleifend diam, non ultrices erat."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis quis euismod tortor. Nullam vitae eleifend diam, non ultrices erat."
+
+#: patterns/footer.php:50
+msgid "Where to find us?"
+msgstr "¿Dónde encontrarnos?"
+
+#: patterns/footer.php:43 patterns/header.php:20
+msgid "1(868) 225-6155"
+msgstr "1(868) 225-6155"
+
+#: patterns/footer.php:33 patterns/header.php:32
+msgid "support@example.com"
+msgstr "soporte@ejemplo.com"
+
+#: patterns/footer.php:14
+msgid "Contact Us"
+msgstr "Contacta con nosotros"
+
+#: patterns/banner.php:24
+msgid "read more"
+msgstr "leer más"
+
+#: patterns/banner.php:18
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation"
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation"
+
+#: patterns/banner.php:13 patterns/our-services.php:38
+#: patterns/our-services.php:58 patterns/our-services.php:78
+#: patterns/our-services.php:98
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor"
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor"
+
+#: patterns/archive.php:64 patterns/blog-grid-layout.php:56
+#: patterns/blog-left-sidebar.php:62 patterns/blog-right-sidebar.php:58
+msgid "Sorry, no post exist..."
+msgstr "Lo siento, no existe ninguna entrada..."
+
+#: patterns/about-us.php:27
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis quis euismod tortor. Nullam vitae eleifend diam, non ultrices erat. Vivamus nibh enim, maximus eu urna nec, commodo laoreet neque. Ut sit amet gravida diam. Ut egestas nec diam et tincidunt. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur fringilla ipsum massa, sed dignissim est venenatis nec. Nullam lobortis nisl sit amet erat finibus elementum a in sapien."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis quis euismod tortor. Nullam vitae eleifend diam, non ultrices erat. Vivamus nibh enim, maximus eu urna nec, commodo laoreet neque. Ut sit amet gravida diam. Ut egestas nec diam et tincidunt. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur fringilla ipsum massa, sed dignissim est venenatis nec. Nullam lobortis nisl sit amet erat finibus elementum a in sapien."
+
+#: patterns/about-us.php:23 patterns/profit-graph.php:23
+msgid "Curabitur fringilla ipsum massa, sed dignissim est venenatis nec."
+msgstr "Curabitur fringilla ipsum massa, sed dignissim est venenatis nec."
+
+#: patterns/about-us.php:19 patterns/footer.php:23 patterns/latest-news.php:19
+#: patterns/our-services.php:15 patterns/our-skills.php:15
+#: patterns/profit-graph.php:19 patterns/trust-us.php:17
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+
+#: patterns/about-us.php:15
+msgid "about us"
+msgstr "quiénes somos"
+
+#: patterns/404.php:25
+msgid "Return Home"
+msgstr "Volver al inicio"
+
+#: patterns/404.php:20
+msgid "Sorry, the page you are looking for does not exist or has been moved."
+msgstr "Lo siento, la página que estás buscando no existe o se ha movido."
+
+#: patterns/404.php:16
+msgid "Page not found!"
+msgstr "¡Página no encontrada!"
+
+#: patterns/404.php:12
+msgid "404"
+msgstr "404"
+
+#: inc/dashboard/dashboard.php:103
+msgid "Supper Fast"
+msgstr "Superrápido"
+
+#: inc/dashboard/dashboard.php:102
+msgid "SEO Friendly"
+msgstr "Optimizado para SEO"
+
+#: inc/dashboard/dashboard.php:101
+msgid "10+ Sections"
+msgstr "Más de 10 secciones"
+
+#: inc/dashboard/dashboard.php:100
+msgid "Full Support"
+msgstr "Soporte completo"
+
+#: inc/dashboard/dashboard.php:99
+msgid "Woo-commerce Compatible"
+msgstr "Compatible con WooCommerce"
+
+#: inc/dashboard/dashboard.php:98
+msgid "WPML Compatible (Translation Ready)"
+msgstr "Compatible con WPML (preparado para la traducción)"
+
+#: inc/dashboard/dashboard.php:97
+msgid "Detailed Documentation Included"
+msgstr "Documentación detallada incluida"
+
+#: inc/dashboard/dashboard.php:96
+msgid "Cross Browser Support"
+msgstr "Compatibilidad entre navegadores"
+
+#: inc/dashboard/dashboard.php:95
+msgid "Unlimited Color Options"
+msgstr "Opciones de color ilimitadas"
+
+#: inc/dashboard/dashboard.php:94
+msgid "Multiple Blog Layouts"
+msgstr "Varios diseños de blog"
+
+#: inc/dashboard/dashboard.php:93
+msgid "Contact Page Template"
+msgstr "Plantilla de página de contacto"
+
+#: inc/dashboard/dashboard.php:92
+msgid "Section Reordering"
+msgstr "Reordenación de secciones"
+
+#: inc/dashboard/dashboard.php:91
+msgid "Demo Importer"
+msgstr "Importador de demostraciones"
+
+#: inc/dashboard/dashboard.php:90
+msgid "Responsive Design"
+msgstr "Diseño adaptable"
+
+#: inc/dashboard/dashboard.php:85
+msgid "Buy Now"
+msgstr "Comprar ahora"
+
+#: inc/dashboard/dashboard.php:84
+msgid "Live Demo"
+msgstr "Demostración en vivo"
+
+#: inc/dashboard/dashboard.php:75
+msgid "Check the theme documentation to easily set up your website."
+msgstr "Consulta la documentación del tema para configurar fácilmente tu sitio web."
+
+#: inc/dashboard/dashboard.php:71
+msgid "To check your website click here"
+msgstr "Para comprobar tu sitio web, haz clic aquí"
+
+#: inc/dashboard/dashboard.php:70 inc/dashboard/dashboard.php:72
+msgid "Visit Your Site"
+msgstr "Visita tu sitio"
+
+#: inc/dashboard/dashboard.php:67
+msgid "Now create your website with easy drag and drop powered by gutenburg."
+msgstr "Crea ahora tu sitio web con la sencilla función arrastrar y soltar que funciona con Gutenberg."
+
+#: inc/dashboard/dashboard.php:66 inc/dashboard/dashboard.php:68
+msgid "Edit Your Site"
+msgstr "Editar tu sitio"
+
+#: inc/dashboard/dashboard.php:61 inc/dashboard/dashboard.php:76
+#: inc/dashboard/dashboard.php:86
+msgid "Documentation"
+msgstr "Documentación"
+
+#: inc/dashboard/dashboard.php:52
+msgid "Review"
+msgstr "Valoración"
+
+#: inc/dashboard/dashboard.php:51
+msgid "Support"
+msgstr "Soporte"
+
+#: inc/dashboard/dashboard.php:47
+msgid "Version: "
+msgstr "Versión: "
+
+#: inc/dashboard/dashboard.php:32
+msgid "Premium One Business Blocks Theme"
+msgstr "Tema Premium One Business Blocks"
+
+#: inc/dashboard/dashboard.php:29
+msgid "https://ovationthemes.com/docs/ot-one-business-blocks-free-doc"
+msgstr "https://ovationthemes.com/docs/ot-one-business-blocks-free-doc"
+
+#: inc/dashboard/dashboard.php:26
+msgid "https://ovationthemes.com/docs/ot-one-login-business-pro/"
+msgstr "https://ovationthemes.com/docs/ot-one-login-business-pro/"
+
+#: inc/dashboard/dashboard.php:23
+msgid "https://www.ovationthemes.com/wordpress/wordpress-business-theme/"
+msgstr "https://www.ovationthemes.com/wordpress/wordpress-business-theme/"
+
+#: inc/dashboard/dashboard.php:20
+msgid "https://www.ovationthemes.com/demos/ovation-one-login-business-pro/"
+msgstr "https://www.ovationthemes.com/demos/ovation-one-login-business-pro/"
+
+#: inc/dashboard/dashboard.php:17
+msgid "https://wordpress.org/support/theme/one-business-blocks/reviews/"
+msgstr "https://wordpress.org/support/theme/one-business-blocks/reviews/"
+
+#: inc/dashboard/dashboard.php:14
+msgid "https://wordpress.org/support/theme/one-business-blocks/"
+msgstr "https://wordpress.org/support/theme/one-business-blocks/"
+
+#: functions.php:72 inc/dashboard/dashboard.php:5
+#: inc/dashboard/dashboard.php:74
+msgid "Theme Documentation"
+msgstr "Documentación del tema"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://www.ovationthemes.com/"
+msgstr "https://www.ovationthemes.com/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "pewilliams"
+msgstr "pewilliams"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://www.ovationthemes.com/wordpress/free-wordpress-business-theme/"
+msgstr "https://www.ovationthemes.com/wordpress/free-wordpress-business-theme/"

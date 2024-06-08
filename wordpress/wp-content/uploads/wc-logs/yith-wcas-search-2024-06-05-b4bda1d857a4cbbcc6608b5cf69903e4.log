@@ -1,0 +1,121 @@
+2024-06-05T07:16:18+00:00 NOTICE Start search for import CONTEXT: {"_legacy":true}
+2024-06-05T07:16:18+00:00 NOTICE Execution time 0 0.1565179 CONTEXT: {"_legacy":true}
+2024-06-05T07:16:18+00:00 NOTICE Tokens Array
+(
+    [0] => import
+)
+ CONTEXT: {"_legacy":true}
+2024-06-05T07:16:18+00:00 NOTICE Execution time 1 0.16923 CONTEXT: {"_legacy":true}
+2024-06-05T07:16:18+00:00 NOTICE Execution time 0.1730373 CONTEXT: {"_legacy":true}
+2024-06-05T07:16:54+00:00 NOTICE Start search for pokemon CONTEXT: {"_legacy":true}
+2024-06-05T07:16:54+00:00 NOTICE Execution time 0 0.0175476 CONTEXT: {"_legacy":true}
+2024-06-05T07:16:54+00:00 NOTICE Tokens Array
+(
+    [0] => pokemon
+)
+ CONTEXT: {"_legacy":true}
+2024-06-05T07:16:54+00:00 NOTICE Execution time 1 0.0275383 CONTEXT: {"_legacy":true}
+2024-06-05T07:16:54+00:00 NOTICE Execution time 0.0289791 CONTEXT: {"_legacy":true}
+2024-06-05T07:16:56+00:00 NOTICE Start search for pokemon CONTEXT: {"_legacy":true}
+2024-06-05T07:16:56+00:00 NOTICE Execution time 0 0.0147323 CONTEXT: {"_legacy":true}
+2024-06-05T07:16:56+00:00 NOTICE Tokens Array
+(
+    [0] => pokemon
+)
+ CONTEXT: {"_legacy":true}
+2024-06-05T07:16:56+00:00 NOTICE Execution time 1 0.0198643 CONTEXT: {"_legacy":true}
+2024-06-05T07:16:56+00:00 NOTICE Execution time 0.0212506 CONTEXT: {"_legacy":true}
+2024-06-05T07:17:27+00:00 NOTICE Start search for Bleach CONTEXT: {"_legacy":true}
+2024-06-05T07:17:28+00:00 NOTICE Execution time 0 0.0224552 CONTEXT: {"_legacy":true}
+2024-06-05T07:17:28+00:00 NOTICE Tokens Array
+(
+    [0] => bleach
+)
+ CONTEXT: {"_legacy":true}
+2024-06-05T07:17:28+00:00 NOTICE Execution time 1 0.032991 CONTEXT: {"_legacy":true}
+2024-06-05T07:17:28+00:00 NOTICE Execution time 0.0342288 CONTEXT: {"_legacy":true}
+2024-06-05T07:17:29+00:00 NOTICE Start search for Bleach CONTEXT: {"_legacy":true}
+2024-06-05T07:17:29+00:00 NOTICE Execution time 0 0.0115609 CONTEXT: {"_legacy":true}
+2024-06-05T07:17:29+00:00 NOTICE Tokens Array
+(
+    [0] => bleach
+)
+ CONTEXT: {"_legacy":true}
+2024-06-05T07:17:29+00:00 NOTICE Execution time 1 0.0168542 CONTEXT: {"_legacy":true}
+2024-06-05T07:17:29+00:00 NOTICE Execution time 0.0178393 CONTEXT: {"_legacy":true}
+2024-06-05T07:19:45+00:00 NOTICE Start search for import CONTEXT: {"_legacy":true}
+2024-06-05T07:19:45+00:00 NOTICE Execution time 0 0.0361139 CONTEXT: {"_legacy":true}
+2024-06-05T07:19:45+00:00 NOTICE Tokens Array
+(
+    [0] => import
+)
+ CONTEXT: {"_legacy":true}
+2024-06-05T07:19:45+00:00 NOTICE Execution time 1 0.0600924 CONTEXT: {"_legacy":true}
+2024-06-05T07:19:45+00:00 NOTICE Execution time 0.0663532 CONTEXT: {"_legacy":true}
+2024-06-05T07:21:02+00:00 NOTICE Start search for pokemon CONTEXT: {"_legacy":true}
+2024-06-05T07:21:02+00:00 NOTICE Execution time 0 0.0183115 CONTEXT: {"_legacy":true}
+2024-06-05T07:21:02+00:00 NOTICE Tokens Array
+(
+    [0] => pokemon
+)
+ CONTEXT: {"_legacy":true}
+2024-06-05T07:21:02+00:00 NOTICE Execution time 1 0.0301264 CONTEXT: {"_legacy":true}
+2024-06-05T07:21:02+00:00 NOTICE Execution time 0.0315477 CONTEXT: {"_legacy":true}
+2024-06-05T07:21:07+00:00 NOTICE Start search for pokemon CONTEXT: {"_legacy":true}
+2024-06-05T07:21:07+00:00 NOTICE Execution time 0 0.015345 CONTEXT: {"_legacy":true}
+2024-06-05T07:21:07+00:00 NOTICE Tokens Array
+(
+    [0] => pokemon
+)
+ CONTEXT: {"_legacy":true}
+2024-06-05T07:21:07+00:00 NOTICE Execution time 1 0.0201614 CONTEXT: {"_legacy":true}
+2024-06-05T07:21:07+00:00 NOTICE Execution time 0.0214155 CONTEXT: {"_legacy":true}
+2024-06-05T07:21:16+00:00 NOTICE Start search for pokemon CONTEXT: {"_legacy":true}
+2024-06-05T07:21:16+00:00 NOTICE Execution time 0 0.0165963 CONTEXT: {"_legacy":true}
+2024-06-05T07:21:16+00:00 NOTICE Tokens Array
+(
+    [0] => pokemon
+)
+ CONTEXT: {"_legacy":true}
+2024-06-05T07:21:16+00:00 NOTICE Execution time 1 0.0267287 CONTEXT: {"_legacy":true}
+2024-06-05T07:21:16+00:00 NOTICE Execution time 0.0282916 CONTEXT: {"_legacy":true}
+2024-06-05T07:22:31+00:00 NOTICE Start search for my hero CONTEXT: {"_legacy":true}
+2024-06-05T07:22:31+00:00 NOTICE Execution time 0 0.0157225 CONTEXT: {"_legacy":true}
+2024-06-05T07:22:31+00:00 NOTICE Tokens Array
+(
+    [0] => hero
+    [1] => my
+)
+ CONTEXT: {"_legacy":true}
+2024-06-05T07:22:31+00:00 NOTICE Execution time 1 0.0277455 CONTEXT: {"_legacy":true}
+2024-06-05T07:22:31+00:00 NOTICE Execution time 0.0293102 CONTEXT: {"_legacy":true}
+2024-06-05T07:23:06+00:00 NOTICE Start search for my hero CONTEXT: {"_legacy":true}
+2024-06-05T07:23:06+00:00 NOTICE Execution time 0 0.0190311 CONTEXT: {"_legacy":true}
+2024-06-05T07:23:06+00:00 NOTICE Tokens Array
+(
+    [0] => hero
+    [1] => my
+)
+ CONTEXT: {"_legacy":true}
+2024-06-05T07:23:06+00:00 NOTICE Execution time 1 0.0343511 CONTEXT: {"_legacy":true}
+2024-06-05T07:23:06+00:00 NOTICE Execution time 0.0362677 CONTEXT: {"_legacy":true}
+2024-06-05T07:23:08+00:00 NOTICE Start search for my hero CONTEXT: {"_legacy":true}
+2024-06-05T07:23:08+00:00 NOTICE Execution time 0 0.0177676 CONTEXT: {"_legacy":true}
+2024-06-05T07:23:08+00:00 NOTICE Tokens Array
+(
+    [0] => hero
+    [1] => my
+)
+ CONTEXT: {"_legacy":true}
+2024-06-05T07:23:08+00:00 NOTICE Execution time 1 0.0252778 CONTEXT: {"_legacy":true}
+2024-06-05T07:23:08+00:00 NOTICE Execution time 0.0274488 CONTEXT: {"_legacy":true}
+2024-06-05T07:26:09+00:00 NOTICE Start search for my hero CONTEXT: {"_legacy":true}
+2024-06-05T07:26:09+00:00 NOTICE Execution time 0 0.0134367 CONTEXT: {"_legacy":true}
+2024-06-05T07:26:09+00:00 NOTICE Tokens Array
+(
+    [0] => hero
+    [1] => my
+)
+ CONTEXT: {"_legacy":true}
+2024-06-05T07:26:09+00:00 NOTICE Execution time 1 0.0251101 CONTEXT: {"_legacy":true}
+2024-06-05T07:26:09+00:00 NOTICE Execution time 0.0267725 CONTEXT: {"_legacy":true}

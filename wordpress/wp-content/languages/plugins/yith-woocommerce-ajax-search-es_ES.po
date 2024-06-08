@@ -1,0 +1,2386 @@
+# Translation of Plugins - YITH WooCommerce Ajax Search - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - YITH WooCommerce Ajax Search - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-05-28 11:08:23+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - YITH WooCommerce Ajax Search - Stable (latest release)\n"
+
+#: includes/class-yith-wcas-search.php:118
+msgid "No authorized!"
+msgstr "¡No autorizado!"
+
+#: includes/legacy/class-yith-wcas-legacy.php:1099
+msgid "Extend search in vendors' products"
+msgstr "Amplía la búsqueda en los productos de los vendedores"
+
+#: includes/legacy/class-yith-wcas-legacy.php:1098
+msgid "Search by vendor"
+msgstr "Búsqueda por vendedor"
+
+#: includes/legacy/class-yith-wcas-legacy.php:1048
+msgid "Extend search in product brands"
+msgstr "Amplía la búsqueda en marcas de productos"
+
+#: includes/legacy/class-yith-wcas-legacy.php:1047
+msgid "Search in product brands"
+msgstr "Búsqueda por marcas de productos"
+
+#: includes/legacy/class-yith-wcas-legacy.php:588
+msgid "featured"
+msgstr "destacado"
+
+#: includes/legacy/class-yith-wcas-legacy.php:580
+msgid "sale"
+msgstr "descuento"
+
+#: includes/legacy/class-yith-wcas-legacy-manager.php:80
+msgctxt "[gutenberg]: class of widget"
+msgid "Class"
+msgstr "Clase"
+
+#: includes/legacy/class-yith-wcas-legacy-manager.php:75
+msgctxt "[gutenberg]: Help to hide thumbnail"
+msgid "Wide"
+msgstr "Ancho"
+
+#: includes/legacy/class-yith-wcas-legacy-manager.php:74
+msgctxt "[gutenberg]: Help to show thumbnail"
+msgid "Default"
+msgstr "Por defecto"
+
+#: includes/legacy/class-yith-wcas-legacy-manager.php:71
+msgctxt "[gutenberg]: show or hide the thumbnail"
+msgid "Template"
+msgstr "Plantilla"
+
+#: includes/class-yith-wcas-admin.php:208
+msgctxt "Admin tab name"
+msgid "Search Stats"
+msgstr "Estadísticas de búsqueda"
+
+#: includes/builders/gutenberg/class-yith-wcas-gutenberg-blocks-controller.php:307
+msgctxt "T-shirts in Woman Clothes"
+msgid "in"
+msgstr "en"
+
+#: includes/builders/gutenberg/class-yith-wcas-gutenberg-blocks-controller.php:306
+msgid "Delete all"
+msgstr "Borrar todo"
+
+#. translators: %s is the query searched.
+#: includes/builders/gutenberg/class-yith-wcas-gutenberg-blocks-controller.php:305
+msgctxt "Results for \"shoes\""
+msgid "Results for \"%s\""
+msgstr "Resultados para «%s»"
+
+#. translators: %1$s is the amount of result %2$s is the query searched.
+#: includes/builders/gutenberg/class-yith-wcas-gutenberg-blocks-controller.php:303
+msgctxt "3 results for \"shoes\""
+msgid "%1$s results for \"%2$s\""
+msgstr "%1$s resultados para «%2$s»"
+
+#. translators: %1$s is the amount of result %2$s is the query searched.
+#: includes/builders/gutenberg/class-yith-wcas-gutenberg-blocks-controller.php:301
+msgctxt "1 result for \"shoes\""
+msgid "%1$s result for \"%2$s\""
+msgstr "%1$s resultado para «%2$s»"
+
+#: includes/builders/gutenberg/class-yith-wcas-gutenberg-blocks-controller.php:157
+msgctxt "Author of the plugin/theme"
+msgid "YITH"
+msgstr "YITH"
+
+#: includes/admin/views/panel/statistic.php:74
+msgid "Top Clicked Products"
+msgstr "Top productos clicados"
+
+#. translators: %s is a html tag
+#: includes/admin/views/panel/statistic.php:60
+#: includes/admin/views/panel/statistic.php:100
+#: includes/admin/views/panel/statistic.php:135
+msgctxt "placeholder is an html tag"
+msgid "No statistics%sare reported for this period"
+msgstr "No hay estadísticas%s registradas para este periodo"
+
+#: includes/admin/views/panel/statistic.php:54
+#: includes/admin/views/panel/statistic.php:94
+#: includes/admin/views/panel/statistic.php:129
+msgid "View all >"
+msgstr "Ver todo >"
+
+#: includes/admin/views/panel/statistic.php:38
+msgid "Top Searches"
+msgstr "Top búsquedas"
+
+#: includes/admin/views/panel/statistic-filter.php:56
+msgid "Filter"
+msgstr "Filtrar"
+
+#: includes/admin/views/panel/statistic-filter.php:51
+msgid "To"
+msgstr "Hasta"
+
+#: includes/admin/views/panel/statistic-filter.php:34
+msgid "From"
+msgstr "Desde"
+
+#: includes/admin/views/panel/statistic-filter.php:22
+msgid "Filter by date: "
+msgstr "Filtrar por fecha: "
+
+#: includes/admin/views/panel/statistic-detail.php:22
+msgid "< Back to all stats"
+msgstr "< Volver a todas las estadísticas"
+
+#: includes/admin/class-yith-wcas-admin-statistic-list-table.php:223
+msgid "No items found"
+msgstr "No se han encontrado artículos"
+
+#: includes/admin/class-yith-wcas-admin-statistic-list-table.php:78
+msgid "Clicks"
+msgstr "Clics"
+
+#: includes/admin/class-yith-wcas-admin-statistic-list-table.php:77
+msgid "Product"
+msgstr "Producto"
+
+#: includes/admin/class-yith-wcas-admin-statistic-list-table.php:72
+msgid "N. Searches"
+msgstr "N. Búsquedas"
+
+#: includes/admin/class-yith-wcas-admin-statistic-list-table.php:71
+msgid "Query"
+msgstr "Consulta"
+
+#: includes/admin/class-yith-wcas-admin-statistic-list-table.php:41
+#: includes/admin/views/panel/statistic.php:113
+msgid "Searches with \"No Results\""
+msgstr "Búsquedas «sin resultados»"
+
+#: includes/admin/class-yith-wcas-admin-statistic-list-table.php:38
+msgid "Top clicked products"
+msgstr "Top productos clicados"
+
+#: includes/admin/class-yith-wcas-admin-statistic-list-table.php:35
+msgid "Top searches"
+msgstr "Top búsquedas"
+
+#: plugin-fw/includes/class-yith-post-type-admin.php:470
+msgid "Reset filters"
+msgstr "Restablecer filtros"
+
+#: assets/js/blocks/build/inner-blocks/product-results-block/block.json
+msgctxt "block description"
+msgid "Shows the found products."
+msgstr "Muestra los productos encontrados."
+
+#: assets/js/blocks/build/inner-blocks/product-results-block/block.json
+msgctxt "block title"
+msgid "Product Results Block"
+msgstr "Bloque de resultados de producto"
+
+#: assets/js/blocks/build/inner-blocks/input-block/block.json
+msgctxt "block description"
+msgid "Contains the block that manages the search field."
+msgstr "Contiene el bloque que gestiona el campo de búsqueda."
+
+#: assets/js/blocks/build/inner-blocks/input-block/block.json
+msgctxt "block title"
+msgid "Input Block"
+msgstr "Bloque de campo"
+
+#: assets/js/blocks/build/inner-blocks/filled-block/block.json
+msgctxt "block description"
+msgid "Contains the blocks that will be shown after results are found."
+msgstr "Contiene los bloques que se mostrarán una vez encontrados los resultados."
+
+#: assets/js/blocks/build/inner-blocks/filled-block/block.json
+msgctxt "block title"
+msgid "Filled State Block"
+msgstr "Bloque estado lleno"
+
+#: languages/js-i18n.php:102 assets/js/blocks/build/search-block.js:1
+msgid "Submit Color Settings"
+msgstr "Ajustes de color de envío"
+
+#: languages/js-i18n.php:90 assets/js/blocks/build/search-block.js:1
+msgid "Color Settings"
+msgstr "Ajustes de color"
+
+#: plugin-options/search-fields-options.php:75
+msgctxt "Admin label option"
+msgid "Schedule time"
+msgstr "Horario"
+
+#: plugin-options/search-fields-options.php:63
+msgid "Weekly"
+msgstr "Semanal"
+
+#: plugin-options/search-fields-options.php:62
+msgid "Daily"
+msgstr "Diario"
+
+#: plugin-options/search-fields-options.php:55
+msgctxt "Admin label option"
+msgid "Indexing interval"
+msgstr "Intervalo de indexación"
+
+#: plugin-options/search-fields-options.php:48
+msgid "Enable a recurring indexing of fields."
+msgstr "Activa una indexación periódica de los campos."
+
+#: plugin-options/search-fields-options.php:47
+msgctxt "Admin label option"
+msgid "Schedule indexing"
+msgstr "Indexación de horario"
+
+#: plugin-options/search-fields-options.php:43
+msgid "A search index helps your users quickly find information and products on your shop. It is designed to map search queries to documents or URLs that might appear in the results."
+msgstr "Un índice de búsqueda ayuda a tus usuarios a encontrar rápidamente información y productos en tu tienda. Está diseñado para asignar consultas de búsqueda a documentos o URL que podrían aparecer en los resultados."
+
+#: plugin-options/search-fields-options.php:41
+msgid "Search index"
+msgstr "Índice de búsqueda"
+
+#: plugin-options/general-options.php:146
+msgctxt "Admin option placeholder"
+msgid "E.g. Pregnancy, Maternity, Nursing, Motherhood, Postpartum"
+msgstr "Ejemplo: embarazo, maternidad, lactancia, maternidad, posparto."
+
+#. translators: placeholders are HTML tags.
+#: plugin-options/general-options.php:135
+msgctxt "Admin option description. Placeholders are HTML tags"
+msgid "Each field can include a list of synonymous words or concepts to help users easily find products with different name types. Use single words or phrases separated by commas."
+msgstr "Cada campo puede incluir una lista de palabras o conceptos sinónimos para ayudar a los usuarios a encontrar fácilmente productos con distintos tipos de nombre. Utiliza palabras sueltas o frases separadas por comas."
+
+#: plugin-options/general-options.php:132
+msgctxt "Admin option label"
+msgid "Synonyms"
+msgstr "Sinónimos"
+
+#. translators: Admin option description. Placeholders are HTML tags.
+#: plugin-options/general-options.php:115
+msgctxt "Admin option description. Placeholders are HTML tags"
+msgid "Choose the fuzzy matching level. %1$sNote: a 100%% level can produce a significant number of false positives.%1$sSuggested value: 50%%"
+msgstr "Elige el nivel de coincidencia imprecisa. %1$sNota: un nivel del 100%% puede producir un número significativo de falsos positivos.%1$sValor sugerido: 50%%."
+
+#: plugin-options/general-options.php:111
+msgctxt "Admin option label"
+msgid "Fuzzy matching level"
+msgstr "Nivel de combinación imprecisa"
+
+#. translators: placeholders are HTML tags.
+#: plugin-options/general-options.php:97
+msgctxt "Admin option description.sprintf"
+msgid ""
+"Enable to help users find relevant results even when the search terms are misspelled.%s\n"
+"Example: “skrit” instead of “skirt”."
+msgstr ""
+"Activa para ayudar a los usuarios a encontrar resultados relevantes incluso cuando los términos de búsqueda están mal escritos.%s\n"
+"Ejemplo: «fadla» en lugar de «falda»."
+
+#: plugin-options/general-options.php:94
+msgctxt "Admin option label"
+msgid "Enable fuzzy strings matching"
+msgstr "Activa la combinación de cadenas imprecisas"
+
+#: plugin-options/general-options.php:88
+msgctxt "Admin section label"
+msgid "Fuzzy strings & synonyms"
+msgstr "Cadenas imprecisas y sinónimos"
+
+#: plugin-options/general-options.php:78
+msgctxt "Admin option placeholder"
+msgid "E.g. iPhone 11, Air Max 1, Vintage dress with buttons"
+msgstr "Ejemplo: iPhone 11, Air Max 1, vestido vintage con botones"
+
+#: plugin-options/general-options.php:72
+msgid "Enter the keywords, comma separated, for the suggested searches."
+msgstr "Introduce las palabras clave, separadas por comas, para las búsquedas sugeridas."
+
+#: plugin-options/general-options.php:71
+msgctxt "Admin option label"
+msgid "Keywords"
+msgstr "Palabras clave"
+
+#: plugin-options/general-options.php:62
+msgctxt "Admin select option"
+msgid "Popular searches"
+msgstr "Búsquedas populares"
+
+#: plugin-options/general-options.php:61
+msgctxt "Admin select option"
+msgid "Specific keywords"
+msgstr "Palabras clave específicas"
+
+#: plugin-options/general-options.php:55
+msgctxt "Admin option label"
+msgid "Searches to suggest"
+msgstr "Búsquedas a sugerir"
+
+#: plugin-options/general-options.php:49
+msgctxt "Admin section label"
+msgid "Suggested/Trending searches"
+msgstr "Búsquedas sugeridas/populares"
+
+#: plugin-options/general-options.php:31
+msgctxt "Admin option label"
+msgid "Minimum number of characters to trigger autocomplete"
+msgstr "Número mínimo de caracteres para activar el autocompletado"
+
+#: plugin-options/general-options.php:24
+msgctxt "Admin option description"
+msgid "Enable to display a list of suggested queries automatically generated based on what the user types in the search form."
+msgstr "Activa para mostrar una lista de consultas sugeridas generada automáticamente a partir de lo que el usuario escribe en el formulario de búsqueda."
+
+#: plugin-options/general-options.php:23
+msgctxt "Admin option label"
+msgid "Enable autocomplete feature in search field"
+msgstr "Activa la característica de autocompletar en los campos de búsqueda"
+
+#: plugin-options/general-options.php:17
+msgctxt "Admin section title"
+msgid "Autocomplete"
+msgstr "Autocompleta"
+
+#: plugin-options/elementor/blocks.php:15
+msgctxt "[elementor]: keywords"
+msgid "Ajax Search Widget"
+msgstr "Widget Ajax Search"
+
+#: plugin-options/elementor/blocks.php:14
+msgctxt "[elementor]: keywords"
+msgid "Search"
+msgstr "Búsqueda"
+
+#: plugin-options/elementor/blocks.php:7
+msgctxt "[elementor]: block description"
+msgid "Add the classic search block"
+msgstr "Añade el bloque de búsqueda clásico"
+
+#: plugin-options/elementor/blocks.php:6
+msgctxt "[elementor]: block name"
+msgid "Classic Search"
+msgstr "Búsqueda clásica"
+
+#: languages/js-i18n.php:120 assets/js/blocks/build/search-block.js:1
+msgid "\"View all results\" text"
+msgstr "Texto «ver todos los resultados»"
+
+#: languages/js-i18n.php:117 assets/js/blocks/build/search-block.js:1
+msgid "Show \"View all results\" link"
+msgstr "Muestra el enlace «ver todos los resultados»"
+
+#: languages/js-i18n.php:114 assets/js/blocks/build/search-block.js:1
+msgid "\"No results\" text"
+msgstr "Texto «sin resultados»"
+
+#: languages/js-i18n.php:111 assets/js/blocks/build/search-block.js:1
+msgid "Product Title Color"
+msgstr "Color del título del producto"
+
+#: languages/js-i18n.php:108 assets/js/blocks/build/search-block.js:1
+msgid "Info to show"
+msgstr "Información a mostrar"
+
+#: languages/js-i18n.php:105 assets/js/blocks/build/search-block.js:1
+msgid "Product results settings"
+msgstr "Ajustes de resultados del producto"
+
+#: languages/js-i18n.php:99 assets/js/blocks/build/search-block.js:1
+msgid "Icon on the left"
+msgstr "Icono en la izquierda"
+
+#: languages/js-i18n.php:96 assets/js/blocks/build/search-block.js:1
+msgid "Icon on the right"
+msgstr "Icono en la derecha"
+
+#: languages/js-i18n.php:93 assets/js/blocks/build/search-block.js:1
+msgid "Search icon"
+msgstr "Icono de búsqueda"
+
+#: languages/js-i18n.php:87 assets/js/blocks/build/search-block.js:1
+msgid "Enter search placeholder text"
+msgstr "Introduce el texto de marcadores de posición de búsqueda"
+
+#: languages/js-i18n.php:84 assets/js/blocks/build/search-block.js:1
+msgid "Search input settings"
+msgstr "Ajustes de campo de búsqueda"
+
+#: languages/js-i18n.php:81 assets/js/blocks/build/search-block.js:1
+msgid "Border Hover"
+msgstr "Borde al pasar el cursor"
+
+#: languages/js-i18n.php:78 assets/js/blocks/build/search-block.js:1
+msgid "Background Hover"
+msgstr "Fondo al pasar el cursor"
+
+#: languages/js-i18n.php:75 assets/js/blocks/build/search-block.js:1
+msgid "Text and Icon Hover"
+msgstr "Texto e icono al pasar el cursor"
+
+#: languages/js-i18n.php:72 assets/js/blocks/build/search-block.js:1
+msgid "Text Hover"
+msgstr "Texto al pasar el cursor"
+
+#: languages/js-i18n.php:69 assets/js/blocks/build/search-block.js:1
+msgid "Icon Hover"
+msgstr "Icono al pasar el cursor"
+
+#: languages/js-i18n.php:66 assets/js/blocks/build/search-block.js:1
+msgid "Text and Icon"
+msgstr "Texto e icono"
+
+#: languages/js-i18n.php:60 assets/js/blocks/build/search-block.js:1
+msgid "Add the classic search block"
+msgstr "Añade el bloque de búsqueda clásico"
+
+#: languages/js-i18n.php:57 assets/js/blocks/build/search-block.js:1
+msgid "Classic Search"
+msgstr "Búsqueda clásica"
+
+#: includes/class-yith-wcas-settings.php:478 languages/js-i18n.php:6
+#: assets/js/blocks/build/search-block.js:1
+msgid "Size"
+msgstr "Tamaño"
+
+#: languages/js-i18n.php:51 assets/js/blocks/build/search-block-frontend.js:1
+#: assets/js/blocks/build/search-block.js:1
+msgid "Filled Results"
+msgstr "Resultados completos"
+
+#: languages/js-i18n.php:48 assets/js/blocks/build/search-block-frontend.js:1
+#: assets/js/blocks/build/search-block.js:1
+msgid "Search Input"
+msgstr "Campo de búsqueda"
+
+#: includes/legacy/elementor/class-yith-wcas-search-form-elementor.php:104
+msgid "Wide"
+msgstr "Ancho"
+
+#: includes/legacy/elementor/class-yith-wcas-search-form-elementor.php:99
+msgid "Template"
+msgstr "Plantilla"
+
+#: includes/legacy/class-yith-wcas-legacy-manager.php:60
+msgctxt "[gutenberg]: block name"
+msgid "Ajax Search[Deprecated]"
+msgstr "Ajax Search[Obsoleto]"
+
+#: includes/legacy/class-yith-wcas-ajax-search.php:32
+msgid "YITH WooCommerce Ajax Product Search[Deprecated]"
+msgstr "YITH WooCommerce Ajax Product Search[Obsoleto]"
+
+#: includes/functions-yith-wcas.php:582 languages/js-i18n.php:45
+#: assets/js/blocks/build/search-blocks/input-block-frontend.js:1
+#: assets/js/blocks/build/search-blocks/input-block-style.js:1
+msgid "Search products..."
+msgstr "Buscar productos..."
+
+#. translators: Placeholders are HTML tags.
+#: includes/functions-yith-wcas.php:525
+msgctxt "Placeholders are HTML tags"
+msgid "This option is available only in the new search form. %1$sUpdate the plugin now, it's easy >%2$s"
+msgstr "Esta opción está disponible solo en el nuevo formulario de búsqueda. %1$sActualiza el plugin ahora, es fácil >%2$s"
+
+#: includes/functions-yith-wcas.php:143
+msgctxt "[Admin]search field type"
+msgid "Short description"
+msgstr "Descripción corta"
+
+#: includes/functions-yith-wcas.php:142
+msgctxt "[Admin]search field type"
+msgid "Description"
+msgstr "Descripción"
+
+#: includes/functions-yith-wcas.php:141
+msgctxt "[Admin]search field type"
+msgid "Product name"
+msgstr "Nombre del producto"
+
+#: includes/class-yith-wcas-settings.php:763
+msgid "Use {total} to show the total number of results."
+msgstr "Utiliza {total} para mostrar el número total de resultados."
+
+#: includes/class-yith-wcas-settings.php:760
+msgid "“View all results\" text"
+msgstr "Texto «ver todos los resultados»"
+
+#: includes/class-yith-wcas-settings.php:754
+#: includes/class-yith-wcas-settings.php:756
+msgid "Show “View all results\" link"
+msgstr "Muestra el enlace «ver todos los resultados»"
+
+#: includes/class-yith-wcas-settings.php:748
+msgid "No results notice"
+msgstr "Sin aviso de resultados"
+
+#: includes/class-yith-wcas-settings.php:729
+msgid "Show right"
+msgstr "Mostrar a la derecha"
+
+#: includes/class-yith-wcas-settings.php:728
+msgid "Show left"
+msgstr "Mostrar a la izquierda"
+
+#: includes/class-yith-wcas-settings.php:726
+msgid "Image position"
+msgstr "Posición de la imagen"
+
+#: includes/class-yith-wcas-settings.php:709 languages/js-i18n.php:42
+#: assets/js/blocks/build/search-block.js:1
+msgid "Image size (px)"
+msgstr "Tamaño de la imagen (px)"
+
+#: includes/class-yith-wcas-settings.php:703
+msgid "Results layout"
+msgstr "Plantilla de resultados"
+
+#: includes/class-yith-wcas-settings.php:688
+msgid "Title color"
+msgstr "Color del título"
+
+#: includes/class-yith-wcas-settings.php:682 languages/js-i18n.php:39
+#: assets/js/blocks/build/search-block.js:1
+msgid "Image"
+msgstr "Imagen"
+
+#: includes/class-yith-wcas-settings.php:681 languages/js-i18n.php:36
+#: assets/js/blocks/build/search-block.js:1
+msgid "Title"
+msgstr "Título"
+
+#: includes/class-yith-wcas-settings.php:679
+msgid "Product info to show"
+msgstr "Información del producto a mostrar"
+
+#: includes/class-yith-wcas-settings.php:674
+msgid "Set how many results to show."
+msgstr "Establece cuántos resultados mostrar."
+
+#: includes/class-yith-wcas-settings.php:670 languages/js-i18n.php:33
+#: assets/js/blocks/build/search-block.js:1
+msgid "Max results to show"
+msgstr "Resultados máximos a mostrar"
+
+#: includes/class-yith-wcas-settings.php:651
+msgid "Customize the submit button colors."
+msgstr "Personaliza los colores del botón de envío."
+
+#: includes/class-yith-wcas-settings.php:647
+msgid "Border hover"
+msgstr "Borde al pasar el cursor"
+
+#: includes/class-yith-wcas-settings.php:637
+msgid "Background hover"
+msgstr "Fondo al pasar el cursor"
+
+#: includes/class-yith-wcas-settings.php:627
+msgid "Label hover"
+msgstr "Etiqueta al pasar el cursor"
+
+#: includes/class-yith-wcas-settings.php:622
+msgid "Label"
+msgstr "Etiqueta"
+
+#: includes/class-yith-wcas-settings.php:617
+msgid "Button colors"
+msgstr "Colores de botón"
+
+#: includes/class-yith-wcas-settings.php:607
+msgid "Choose the icon alignment inside the search field."
+msgstr "Elige la alineación de iconos dentro del campo de búsqueda."
+
+#: includes/class-yith-wcas-settings.php:603
+msgid "Right"
+msgstr "Derecha"
+
+#: includes/class-yith-wcas-settings.php:602
+msgid "Left"
+msgstr "Izquierda"
+
+#: includes/class-yith-wcas-settings.php:599
+msgid "Icon position"
+msgstr "Posición del icono"
+
+#: includes/class-yith-wcas-settings.php:573 languages/js-i18n.php:30
+#: assets/js/blocks/build/search-block.js:1
+msgid "Border focus"
+msgstr "Borde (enfoque)"
+
+#: includes/class-yith-wcas-settings.php:568
+#: includes/class-yith-wcas-settings.php:642 languages/js-i18n.php:27
+#: assets/js/blocks/build/search-block.js:1
+msgid "Border"
+msgstr "Borde"
+
+#: includes/class-yith-wcas-settings.php:563 languages/js-i18n.php:24
+#: assets/js/blocks/build/search-block.js:1
+msgid "Background focus"
+msgstr "Fondo (enfoque)"
+
+#: includes/class-yith-wcas-settings.php:558
+#: includes/class-yith-wcas-settings.php:632 languages/js-i18n.php:21
+#: assets/js/blocks/build/search-block.js:1
+msgid "Background"
+msgstr "Fondo"
+
+#: includes/class-yith-wcas-settings.php:543
+msgid "Colors"
+msgstr "Colores"
+
+#: includes/class-yith-wcas-settings.php:548 languages/js-i18n.php:18
+#: assets/js/blocks/build/search-block.js:1
+msgid "Text"
+msgstr "Texto"
+
+#: includes/class-yith-wcas-settings.php:538
+msgid "Enter the placeholder text to show inside the search form."
+msgstr "Introduce el texto del marcador de posición para mostrar dentro del formulario de búsqueda."
+
+#: includes/class-yith-wcas-settings.php:533
+#: includes/class-yith-wcas-settings.php:553 languages/js-i18n.php:15
+#: assets/js/blocks/build/search-block.js:1
+msgid "Placeholder"
+msgstr "Marcador de posición"
+
+#: includes/class-yith-wcas-settings.php:516
+msgctxt "Settings tab header"
+msgid "Search results"
+msgstr "Búsqueda de resultados"
+
+#: includes/class-yith-wcas-settings.php:515
+msgctxt "Settings tab header"
+msgid "Submit button"
+msgstr "Botón de enviar"
+
+#: includes/class-yith-wcas-settings.php:514
+msgctxt "Settings tab header"
+msgid "Search input"
+msgstr "Campo de búsqueda"
+
+#: includes/class-yith-wcas-settings.php:513
+msgctxt "Settings tab header"
+msgid "General"
+msgstr "General"
+
+#: includes/class-yith-wcas-settings.php:491
+msgid ""
+"Enter additional CSS classes to customize this search. \n"
+"Separate multiple classes with spaces."
+msgstr ""
+"Introduce clases CSS adicionales para personalizar esta búsqueda.\n"
+"Separa múltiples clases con espacios."
+
+#: includes/class-yith-wcas-settings.php:489
+msgid "CSS class"
+msgstr "Clase CSS"
+
+#: includes/class-yith-wcas-settings.php:484
+msgid "Choose the search size."
+msgstr "Elige el tamaño de búsqueda."
+
+#: includes/class-yith-wcas-settings.php:481 languages/js-i18n.php:12
+#: assets/js/blocks/build/search-block.js:1
+msgid "Large"
+msgstr "Grande"
+
+#: includes/class-yith-wcas-settings.php:480 languages/js-i18n.php:9
+#: assets/js/blocks/build/search-block.js:1
+msgid "Small"
+msgstr "Pequeño"
+
+#: includes/class-yith-wcas-settings.php:473
+msgid "Set a name for this shortcode."
+msgstr "Introduce un nombre para este shortcode."
+
+#: includes/class-yith-wcas-settings.php:471
+msgid "Enter a name..."
+msgstr "Introduce un nombre..."
+
+#: includes/class-yith-wcas-settings.php:433
+msgid "Trending"
+msgstr "Tendencia"
+
+#: includes/class-yith-wcas-settings.php:430
+msgid "Latest searches"
+msgstr "Última búsquedas"
+
+#: includes/class-yith-wcas-settings.php:418
+msgid "Related content"
+msgstr "Contenido relacionado"
+
+#: includes/class-yith-wcas-settings.php:413
+msgid "See all products ({total})"
+msgstr "Ver todos los productos ({total})"
+
+#: includes/class-yith-wcas-settings.php:411
+msgid "No results. Try with a different keyword!"
+msgstr "No hay resultados. ¡Prueba con una palabra clave diferente!"
+
+#: includes/class-yith-wcas-settings.php:408
+msgid "Price:"
+msgstr "Precio:"
+
+#: includes/class-yith-wcas-settings.php:286
+msgid "Featured"
+msgstr "Destacado"
+
+#: includes/class-yith-wcas-settings.php:268
+msgid "On Sale"
+msgstr "En oferta"
+
+#: includes/class-yith-wcas-search.php:121
+msgid "Unable to make a search with an empty query!"
+msgstr "¡No ha sido posible realizar una búsqueda con una consulta vacía!"
+
+#: includes/class-yith-wcas-search-widget.php:177
+msgctxt "[Widget] The widget arg"
+msgid "Search shortcode"
+msgstr "Shortcode de búsqueda"
+
+#: includes/class-yith-wcas-search-widget.php:136
+msgctxt "[Widget] The widget arg"
+msgid "Filters above"
+msgstr "Filtros anteriores"
+
+#: includes/class-yith-wcas-search-widget.php:129
+msgctxt "[Widget] The widget arg"
+msgid "Template wide"
+msgstr "Plantilla ancho"
+
+#: includes/class-yith-wcas-search-widget.php:123
+#: includes/class-yith-wcas-search-widget.php:169
+msgctxt "[Widget] The widget title"
+msgid "Title:"
+msgstr "Título:"
+
+#: includes/class-yith-wcas-assets.php:281
+msgid "Do you want to remove this shortcode preset?"
+msgstr "¿Quieres eliminar este shortcode de preajuste?"
+
+#: includes/class-yith-wcas-assets.php:277
+#: includes/class-yith-wcas-assets.php:282
+msgid "Yes, proceed"
+msgstr "Sí, continuar"
+
+#: includes/class-yith-wcas-assets.php:276
+msgid "Do you want to remove this field from your search field list?"
+msgstr "¿Quieres eliminar este campo de la lista de campos de búsqueda?"
+
+#: includes/class-yith-wcas-assets.php:270
+msgid "This field is required."
+msgstr "Este campo es obligatorio."
+
+#: includes/class-yith-wcas-admin.php:231
+msgctxt "description of \"Search shortcodes\" section"
+msgid "Create and customize your search shortcodes."
+msgstr "Crea y personaliza tus shortcodes de búsqueda."
+
+#: includes/class-yith-wcas-admin.php:230
+msgid "Search Shortcodes"
+msgstr "Shortcodes de búsqueda"
+
+#: includes/class-yith-wcas-admin.php:223
+msgctxt "description of \"Search field\" section"
+msgid "Choose which fields will be used when a search is performed in your shop and set the priority for each enabled field."
+msgstr "Elige qué campos se utilizarán cuando se realice una búsqueda en tu tienda y establece la prioridad de cada campo activo."
+
+#: includes/class-yith-wcas-admin.php:219
+msgid "Search Fields"
+msgstr "Campos de búsqueda"
+
+#: includes/class-yith-wcas-admin.php:216
+msgid "Set the general options for the plugin behavior."
+msgstr "Establece las opciones generales para el comportamiento del plugin."
+
+#: includes/class-yith-wcas-admin.php:214
+msgid "General Options"
+msgstr "Opciones generales"
+
+#: includes/class-yith-wcas-admin.php:112
+#: includes/class-yith-wcas-admin.php:139
+#: plugin-options/search-fields-options.php:92
+msgctxt "Admin label option"
+msgid "Index status"
+msgstr "Estado del índice"
+
+#. translators: Placeholders are HTML tags.
+#: includes/admin/views/upgrade-modal/upgrade-modal.php:62
+msgctxt "Placeholders are HTML tags."
+msgid "%1$sPlease note:%2$s the old search form will be supported until January 15, 2024. After that date, it will be automatically updated to the new form."
+msgstr "%1$sTen en cuenta:%2$s el antiguo formulario de búsqueda será compatible hasta el 15 de enero de 2024. Después de esa fecha, se actualizará automáticamente al nuevo formulario."
+
+#: includes/admin/views/upgrade-modal/upgrade-modal.php:56
+msgid "Update the search form to the advanced version"
+msgstr "Actualiza el formulario de búsqueda a la versión avanzada"
+
+#: includes/admin/views/upgrade-modal/upgrade-modal.php:51
+msgid "Update your search form now!"
+msgstr "¡Actualiza tu formulario de búsqueda ahora!"
+
+#: includes/admin/views/upgrade-modal/upgrade-modal.php:49
+msgid "Ready for this new adventure?"
+msgstr "¿Listo para esta nueva aventura?"
+
+#. translators: Placeholders are HTML tags.
+#: includes/admin/views/upgrade-modal/upgrade-modal.php:39
+msgctxt "Placeholders are HTML tags"
+msgid "In this new version, you'll find the %1$s new features %2$s and an improved %1$scompatibility with the latest WooCommerce versions%2$s. Updating the current search module in your shop is a piece of cake: we will show you how to do that step by step in %3$sthis video.%4$s"
+msgstr "En esta nueva versión, encontrarás las %1$s nuevas características %2$s y una %1$scompatibilidad mejorada con las últimas versiones de WooCommerce%2$s. Actualizar el módulo de búsqueda actual en tu tienda es pan comido: te enseñamos cómo hacerlo paso a paso en %3$seste vídeo.%4$s"
+
+#. translators: Placeholders are HTML tags.
+#: includes/admin/views/upgrade-modal/upgrade-modal.php:29
+msgctxt "Placeholders are HTML tags"
+msgid "Welcome to AJAX Search 2.0,%1$sthe advanced search form that will make the difference in your shop."
+msgstr "Bienvenido a AJAX Search 2.0,%1$sel formulario de búsqueda avanzada que marcará la diferencia en tu tienda."
+
+#: includes/admin/views/panel/shortcodes.php:37
+msgid "Add new shortcode"
+msgstr "Añadir nuevo shortcode"
+
+#: includes/admin/views/panel/shortcode-configuration.php:67
+msgctxt "Shortcode action"
+msgid "Duplicate"
+msgstr "Duplicar"
+
+#: includes/admin/views/panel/shortcode-configuration.php:57
+msgid "Are you sure you want to delete this shortcode?"
+msgstr "¿Seguro que quieres borrar este shortcode?"
+
+#: includes/admin/views/panel/shortcode-configuration.php:56
+msgid "Move to trash?"
+msgstr "¿Mover a la papelera?"
+
+#: includes/admin/views/panel/shortcode-configuration.php:52
+msgctxt "Shortcode action"
+msgid "Trash"
+msgstr "Papelera"
+
+#: includes/admin/views/panel/shortcode-configuration.php:44
+msgctxt "Edit the shortcode"
+msgid "Edit"
+msgstr "Editar"
+
+#: includes/admin/views/panel/shortcode-configuration.php:39
+msgctxt "title of hidden actions column"
+msgid "Actions"
+msgstr "Acciones"
+
+#: includes/admin/views/panel/shortcode-configuration.php:27
+#: includes/admin/views/panel/shortcodes.php:18
+msgid "Code"
+msgstr "Código"
+
+#: includes/admin/views/custom-fields/types/ywcas-synonymous.php:63
+msgid "+ Add another list of synonyms"
+msgstr "+ Añadir otra lista de sinónimos"
+
+#: includes/admin/views/custom-fields/types/ywcas-index.php:54
+msgctxt "label of a button"
+msgid "Rebuild index"
+msgstr "Recrear el índice"
+
+#: includes/admin/views/custom-fields/types/ywcas-index.php:51
+msgctxt "label of a button"
+msgid "The shop data are not indexed. Click \"Rebuild index\" to start the process"
+msgstr "Los datos de la tienda no están indexados. Haz clic en «recrear el índice» para iniciar el proceso."
+
+#: includes/admin/views/custom-fields/types/ywcas-index.php:48
+msgctxt "label to show the number of element indexed"
+msgid "On date:"
+msgstr "Fecha:"
+
+#: includes/admin/views/custom-fields/types/ywcas-index.php:41
+msgid "%1$d / %2$d items - %3$d%%"
+msgstr "%1$d / %2$d artículos - %3$d%%"
+
+#: includes/admin/views/custom-fields/types/ywcas-index.php:38
+msgctxt "label to show the number of element indexed"
+msgid "Indexed:"
+msgstr "Indexado:"
+
+#: includes/admin/views/custom-fields/types/ywcas-index.php:33
+msgid "Search indexing has started! You can leave this page if you want to, the indexing process will continue in the background."
+msgstr "¡La indexación de la búsqueda ha comenzado! Puedes abandonar esta página si quieres, el proceso de indexación continuará en segundo plano."
+
+#: includes/admin/views/custom-fields/types/ywcas-index.php:22
+msgid "The search index has been built successfully!"
+msgstr "¡El índice de búsqueda se ha creado correctamente!"
+
+#: includes/admin/views/custom-fields/types/search-fields.php:44
+msgctxt "Add search field button label"
+msgid "+ Add field"
+msgstr "+ Añadir campo"
+
+#: includes/admin/views/custom-fields/types/search-fields.php:22
+msgctxt "priority of the field"
+msgid "Priority"
+msgstr "Prioridad"
+
+#: includes/admin/views/custom-fields/types/search-fields.php:19
+msgctxt "Name of column field"
+msgid "Field"
+msgstr "Campo"
+
+#: includes/admin/views/custom-fields/types/content/search-input.php:180
+#: includes/admin/views/custom-fields/types/ywcas-synonymous.php:47
+#: includes/admin/views/custom-fields/types/ywcas-synonymous.php:91
+msgctxt "Tip to delete the sender info"
+msgid "Delete"
+msgstr "Borrar"
+
+#: includes/admin/views/custom-fields/types/content/search-input.php:162
+msgid "Search for a tag..."
+msgstr "Buscar etiqueta..."
+
+#: includes/admin/views/custom-fields/types/content/search-input.php:71
+msgctxt "[admin]option to select"
+msgid "Disable specific tags"
+msgstr "Desactiva etiquetas específicas"
+
+#: includes/admin/views/custom-fields/types/content/search-input.php:70
+msgctxt "[admin]option to select"
+msgid "Enable specific tags"
+msgstr "Activa etiquetas específicas"
+
+#: includes/admin/views/custom-fields/types/content/search-input.php:69
+msgctxt "[admin]option to select"
+msgid "Enable all tags"
+msgstr "Activa todas las etiquetas"
+
+#: includes/admin/views/custom-fields/types/content/search-input.php:49
+msgctxt "[admin]option to select"
+msgid "Disable specific categories"
+msgstr "Desactiva categorías específicas"
+
+#: includes/admin/views/custom-fields/types/content/search-input.php:48
+msgctxt "[admin]option to select"
+msgid "Enable specific categories"
+msgstr "Activa categorías específicas"
+
+#: includes/admin/views/custom-fields/types/content/search-input.php:47
+msgctxt "[admin]option to select"
+msgid "Enable all categories"
+msgstr "Activa todas las categorías"
+
+#: includes/builders/gutenberg/class-yith-wcas-gutenberg-blocks-controller.php:294
+msgid "SKU: "
+msgstr "SKU: "
+
+#: includes/builders/gutenberg/class-yith-wcas-gutenberg-blocks-controller.php:293
+#: includes/class-yith-wcas-settings.php:277
+#: includes/legacy/class-yith-wcas-legacy.php:584
+msgid "Out of stock"
+msgstr "Agotado"
+
+#: includes/builders/gutenberg/class-yith-wcas-gutenberg-blocks-controller.php:292
+msgid "In stock"
+msgstr "En inventario"
+
+#: includes/builders/gutenberg/class-yith-wcas-gutenberg-blocks-controller.php:291
+msgctxt "add to cart label for variable products"
+msgid "Select options"
+msgstr "Seleccionar opciones"
+
+#: includes/builders/gutenberg/class-yith-wcas-gutenberg-blocks-controller.php:290
+msgctxt "add to cart label for not purchasable products"
+msgid "Read more"
+msgstr "Leer más"
+
+#: includes/builders/gutenberg/class-yith-wcas-gutenberg-blocks-controller.php:289
+msgid "Add to cart"
+msgstr "Añadir al carrito"
+
+#: includes/abstracts/abstract-yith-wcas-gb-block.php:79
+msgid "Block name is required."
+msgstr "Nombre del bloque obligatorio."
+
+#. translators: Hidden accessibility text.
+#: plugin-fw/includes/class-yith-post-type-admin.php:414
+msgid "Show more details"
+msgstr "Muestra más detalles"
+
+#: plugin-fw/includes/class-yit-plugin-panel-woocommerce.php:501
+#: plugin-fw/includes/class-yit-plugin-panel.php:1562
+msgid "Options saved!"
+msgstr "¡Opciones guardadas!"
+
+#: plugin-options/premium-tab.php:41
+msgid "Show and customize the \"On sale\" badge to enhance products with a discount or the \"Featured\" badge for products marked as such on WooCommerce."
+msgstr "Muestra y personaliza la insignia «en oferta» para realzar los productos con descuento o la insignia «destacado» para los productos marcados como tales en WooCommerce."
+
+#: plugin-options/premium-tab.php:40
+msgid "Use custom badges to enhance search results "
+msgstr "Utiliza insignias personalizadas para mejorar los resultados de búsqueda "
+
+#: plugin-options/premium-tab.php:37
+msgid "Decide whether or not to show product images, prices, and short descriptions (summaries) in the suggestion list."
+msgstr "Decide si quieres o no mostrar imágenes de productos, precios y descripciones breves (resúmenes) en la lista de sugerencias."
+
+#: plugin-options/premium-tab.php:36
+msgid "Choose what to show in the suggestion list"
+msgstr "Elige qué mostrar en la lista de sugerencias"
+
+#: plugin-options/premium-tab.php:33
+msgid "Enable the option to enter an SKU in the search field so users can quickly locate products they are interested in."
+msgstr "Activa la opción de introducir una SKU en el campo de búsqueda para que los usuarios puedan localizar rápidamente los productos que les interesan."
+
+#: plugin-options/premium-tab.php:32
+msgid "Allow searching by product SKU"
+msgstr "Permite la búsqueda por SKU del producto"
+
+#: plugin-options/premium-tab.php:29
+msgid "Choose whether to search for the keyword in summaries and product descriptions."
+msgstr "Elige si quieres buscar la palabra clave en los resúmenes y las descripciones de los productos."
+
+#: plugin-options/premium-tab.php:28
+msgid "Extend the search to product excerpts and descriptions"
+msgstr "Amplía la búsqueda a extractos y descripciones de productos"
+
+#: plugin-options/premium-tab.php:25
+msgid "Choose to also search the keyword in the categories and product tags of your shop."
+msgstr "Elige también buscar la palabra clave en las categorías y etiquetas de productos de tu tienda."
+
+#: plugin-options/premium-tab.php:24
+msgid "Extend the search to categories and product tags"
+msgstr "Amplía la búsqueda a categorías y etiquetas de productos"
+
+#: plugin-options/premium-tab.php:21
+msgid "Choose whether to search for the keyword also in the pages' content and blog articles."
+msgstr "Elige si quieres buscar la palabra clave también en el contenido de las páginas y en los artículos del blog."
+
+#: plugin-options/premium-tab.php:20
+msgid "Extend the search to pages and posts"
+msgstr "Amplía la búsqueda a páginas y entradas"
+
+#: plugin-options/premium-tab.php:17
+msgid "Choose whether to show the filter for the search fields and the list of categories (only the main ones or all of them), a solution inspired by Amazon's search form. "
+msgstr "Elige si quieres mostrar el filtro para los campos de búsqueda y la lista de categorías (solo las principales o todas), una solución inspirada en el formulario de búsqueda de Amazon. "
+
+#: plugin-options/premium-tab.php:16
+msgid "Convert the search field into an advanced search engine"
+msgstr "Convierte el campo de búsqueda en un buscador avanzado"
+
+#: plugin-fw/templates/panel/v2/premium-tab.php:24
+msgctxt "Premium Tab"
+msgid "Check out the advanced features you can get by upgrading to premium!"
+msgstr "¡Echa un vistazo a las características avanzadas que puedes obtener si actualizas a premium!"
+
+#: plugin-fw/templates/panel/v2/premium-tab.php:22
+msgctxt "Premium Tab"
+msgid "Upgrade to unlock premium features"
+msgstr "Actualiza para desbloquear características premium"
+
+#: plugin-fw/templates/panel/premium-tab-content.php:124
+msgctxt "Premium Tab"
+msgid "Verified Customer"
+msgstr "Cliente verificado"
+
+#: plugin-fw/templates/panel/premium-tab-content.php:98
+msgctxt "Premium Tab"
+msgid "100% Money-back guarantee"
+msgstr "Garantía de devolución del 100% del dinero"
+
+#: plugin-fw/templates/panel/premium-tab-content.php:97
+msgctxt "Premium Tab"
+msgid "Technical support"
+msgstr "Soporte técnico"
+
+#: plugin-fw/templates/panel/premium-tab-content.php:96
+msgctxt "Premium Tab"
+msgid "Regular updates"
+msgstr "Actualizaciones periódicas"
+
+#: plugin-fw/templates/panel/premium-tab-content.php:95
+msgctxt "Premium Tab"
+msgid "Advanced features"
+msgstr "Características avanzadas"
+
+#: plugin-fw/templates/panel/premium-tab-content.php:83
+msgctxt "Premium Tab"
+msgid "Upgrade now to unlock premium features"
+msgstr "Actualiza ahora para desbloquear características premium"
+
+#. translators: %s is the discount percentage.
+#: plugin-fw/templates/panel/premium-tab-content.php:79
+msgctxt "Premium Tab"
+msgid "Upgrade now to get a %s%% off"
+msgstr "Actualiza ahora para obtener un %s%% de descuento"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1305
+msgid ""
+"At first, I was hesitant to buy the premium version so I started with the free option.\n"
+"After a while, seeing the quality of the plugin and the results I was getting, I decided to give it a shot and switch to premium. No regrets!\n"
+"They have an amazing support team that is always there no matter how big or small your problem is. Do yourself a favor and stop using free plugins that kind of work and just buy whatever plugin you need from YITH."
+msgstr ""
+"Al principio, dudaba si comprar la versión premium, así que empecé con la opción gratuita.\n"
+"Después de un tiempo, viendo la calidad del plugin y los resultados que estaba obteniendo, decidí darle una oportunidad y cambiarme a premium. ¡No me arrepiento!\n"
+"Tienen un equipo de soporte increíble que siempre está ahí por grande o pequeño que sea tu problema. Hazte un favor y deja de usar plugins gratuitos que no funcionan y compra cualquier plugin que necesites de YITH."
+
+#: plugin-fw/templates/panel/v2/your-store-tools-tab.php:35
+msgctxt "Plugin in \"Your Store Tools\" tab"
+msgid "Best choice"
+msgstr "Mejor opción"
+
+#: plugin-fw/templates/panel/v2/your-store-tools-tab.php:21
+msgid "Additional tools to improve UX, increase conversions, and loyalize customers."
+msgstr "Herramientas adicionales para mejorar la experiencia de usuario, aumentar las conversiones y fidelizar a tus clientes."
+
+#: plugin-fw/templates/panel/v2/your-store-tools-tab.php:51
+msgctxt "Plugin in \"Your Store Tools\" tab"
+msgid "Get it"
+msgstr "¡Consíguelo!"
+
+#: plugin-fw/templates/panel/v2/your-store-tools-tab.php:46
+msgctxt "Plugin in \"Your Store Tools\" tab"
+msgid "Active"
+msgstr "Activo"
+
+#: plugin-fw/templates/panel/v2/your-store-tools-tab.php:17
+msgid "#1 Independent Seller of <mark>WooCommerce plugins</mark>"
+msgstr "Vendedor independiente #1 de <mark>plugins para WooCommerce</mark>"
+
+#: plugin-fw/templates/panel/premium-tab-content.php:45
+#: plugin-fw/templates/panel/v2/panel-option-label-tags.php:16
+msgctxt "Panel option tag"
+msgid "PREMIUM"
+msgstr "PREMIUM"
+
+#: plugin-fw/templates/panel/v2/panel-nav.php:36
+msgid "Collapse"
+msgstr "Cerrar"
+
+#. translators: %s is the alternative action "Upload a file".
+#: plugin-fw/templates/fields/media.php:72
+msgid "Upload a file"
+msgstr "Subir un archivo"
+
+#. translators: %s is the alternative action "Upload a file".
+#: plugin-fw/templates/fields/media.php:71
+msgid "Drag or %s"
+msgstr "Arrastrar o %s"
+
+#: plugin-fw/templates/fields/media.php:53
+msgid "Enter URL"
+msgstr "Introducir URL"
+
+#: plugin-fw/templates/fields/media.php:47
+msgid "Upload file"
+msgstr "Subir archivo"
+
+#: plugin-fw/templates/fields/file.php:14
+msgid "Drag or upload a file."
+msgstr "Arrastrar o subir un archivo."
+
+#: plugin-fw/templates/fields/ajax-orders.php:16
+msgid "Search for an order..."
+msgstr "Buscar un pedido..."
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:992
+msgctxt "Panel tab name"
+msgid "Your Store Tools"
+msgstr "Herramientas de tu tienda"
+
+#: plugin-fw/includes/class-yit-plugin-panel-woocommerce.php:555
+msgid "Options reset correctly!"
+msgstr "¡Opciones restablecidas correctamente!"
+
+#: plugin-fw/includes/class-yit-assets.php:214
+msgid "You cannot drop files here."
+msgstr "Aquí no se pueden soltar archivos."
+
+#: plugin-fw/includes/class-yit-assets.php:213
+msgid "No file provided."
+msgstr "No se proporcionó ningún archivo."
+
+#: plugin-fw/includes/class-yit-assets.php:212
+msgctxt "Title"
+msgid "Error"
+msgstr "Error"
+
+#. translators: %s is the number of characters.
+#: plugin-fw/includes/class-yit-assets.php:200
+msgctxt "Enhanced select"
+msgid "Searching&hellip;"
+msgstr "Buscando&hellip;"
+
+#. translators: %s is the number of characters.
+#: plugin-fw/includes/class-yit-assets.php:199
+msgctxt "Enhanced select"
+msgid "Please enter %s or more characters"
+msgstr "Por favor, introduce %s o más caracteres"
+
+#: plugin-fw/includes/class-yit-assets.php:197
+msgctxt "Enhanced select"
+msgid "Please enter 1 or more characters"
+msgstr "Por favor, introduce 1 o más caracteres"
+
+#: plugin-fw/includes/class-yit-assets.php:196
+msgctxt "Enhanced select"
+msgid "No matches found"
+msgstr "No se han encontrado coincidencias"
+
+#. translators: %s is the number of steps.
+#: plugin-fw/templates/panel/welcome-modals/welcome.php:45
+msgid "Start with these %s steps:"
+msgstr "Comienza con estos %s pasos:"
+
+#: plugin-fw/templates/panel/welcome-modals/welcome.php:30
+msgid "Thank you for using our plugin"
+msgstr "Gracias por usar nuestro plugin"
+
+#: plugin-fw/templates/panel/welcome-modals/update.php:64
+#: plugin-fw/templates/panel/welcome-modals/welcome.php:60
+msgid "Got it, close this window"
+msgstr "Entendido, cierra esta ventana"
+
+#: plugin-fw/templates/panel/welcome-modals/update.php:49
+msgid "Check the changelog >"
+msgstr "Comprueba el registro de cambios >"
+
+#. translators: %s is the plugin version.
+#: plugin-fw/templates/panel/welcome-modals/update.php:44
+msgid "What's new in version %s"
+msgstr "Novedades en la versión %s"
+
+#. translators: %s is the plugin version.
+#: plugin-fw/templates/panel/welcome-modals/update.php:34
+msgid "is successfully updated to version %s."
+msgstr "se actualizó correctamente a la versión %s."
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1185
+msgid "See how it works before you start using it"
+msgstr "Mira cómo funciona antes de comenzar a utilizarlo"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1184
+msgid "Watch our <mark>\"First Steps\" video</mark>"
+msgstr "Mira nuestro <mark>vídeo «Primeros pasos»</mark> "
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1174
+msgid "Learn what you can really do with this powerful tool"
+msgstr "Aprende lo que realmente puedes hacer con esta potente herramienta"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1173
+msgid "Read the <mark>plugin documentation</mark>"
+msgstr "Lee la <mark>documentación del plugin</mark>"
+
+#: includes/admin/views/panel/shortcode-configuration.php:121
+#: plugin-fw/templates/bh-onboarding/onboarding-tabs.php:60
+msgid "Save"
+msgstr "Guardar"
+
+#: plugin-fw/includes/class-yith-bh-onboarding.php:85
+msgid "It is not possible save the options"
+msgstr "No es posible guardar las opciones"
+
+#: plugin-fw/templates/panel/premium-tab-content.php:66
+msgctxt "Premium Tab"
+msgid "Check the premium features >"
+msgstr "Comprueba las características premium >"
+
+#: plugin-fw/templates/panel/help-tab.php:241
+msgctxt "Help tab support"
+msgid "Yes, I need help"
+msgstr "Sí, necesito ayuda"
+
+#: plugin-fw/templates/panel/help-tab.php:238
+msgctxt "Help tab support"
+msgid "Call or chat 24/7 with our support agents, or let our experts build your site."
+msgstr "Llama o chatea las 24 horas del día con nuestros agentes de soporte, o deja que nuestros expertos construyan tu sitio."
+
+#: plugin-fw/templates/panel/help-tab.php:235
+msgctxt "Help tab support"
+msgid "From DIY to full-service help"
+msgstr "Ayuda desde «hazlo tu mismo» hasta un servicio completo"
+
+#: plugin-fw/templates/panel/help-tab.php:231
+#: plugin-fw/templates/panel/help-tab.php:233
+msgctxt "Help tab support"
+msgid "Need some help?"
+msgstr "¿Necesitas ayuda?"
+
+#: plugin-fw/templates/panel/help-tab.php:220
+msgctxt "Help tab documentation"
+msgid "to learn how it works from the basics."
+msgstr "para aprender cómo funciona desde lo más básico."
+
+#: plugin-fw/templates/panel/help-tab.php:216
+#: plugin-fw/templates/panel/help-tab.php:218
+#: plugin-fw/templates/panel/help-tab.php:223
+msgctxt "Help tab documentation"
+msgid "Read the plugin documentation"
+msgstr "Lee la documentación del plugin"
+
+#. translators: 1. Plugin name.
+#: plugin-fw/includes/class-yit-plugin-panel.php:920
+msgctxt "Help tab default title"
+msgid "Thank you for using %s!"
+msgstr "¡Gracias por usar %s!"
+
+#. translators: 1. Plugin(s) name(s).
+#: plugin-fw/yit-plugin.php:281
+msgid "%s was deactivated as you're running an higher tier version of the same plugin."
+msgid_plural "%s were deactivated as you're running higher tier versions of the same plugins."
+msgstr[0] "%s ha sido desactivado, ya que estás ejecutando una versión superior del mismo plugin."
+msgstr[1] "%s han sido desactivados, ya que estás ejecutando versiones superiores de los mismos plugins."
+
+#: plugin-fw/templates/fields/ajax-terms.php:41
+msgid "Search for a category..."
+msgstr "Buscar una categoría..."
+
+#: plugin-fw/templates/fields/ajax-posts.php:41
+msgid "Search for a post..."
+msgstr "Buscar una entrada..."
+
+#: plugin-fw/templates/fields/ajax-customers.php:41
+msgid "Search for a customer..."
+msgstr "Buscar un cliente..."
+
+#: plugin-fw/templates/panel/help-tab.php:142
+msgctxt "Help tab Watch video tutorials link"
+msgid "to see some helpful use cases."
+msgstr "para ver algunos ejemplos de uso."
+
+#: plugin-fw/templates/panel/help-tab.php:129
+msgctxt "Help tab Read Documentation link"
+msgid "to learn how the plugin works from the basics."
+msgstr "para aprender cómo funciona el plugin desde lo más básico."
+
+#: plugin-fw/templates/panel/premium-tab-content.php:102
+msgctxt "Premium Tab"
+msgid "Get the premium version"
+msgstr "Obtén la versión premium"
+
+#: plugin-fw/templates/panel/premium-tab-content.php:62
+msgctxt "Premium Tab"
+msgid "Check the free vs premium features >"
+msgstr "Comprueba las características gratuitas frente a las premium >"
+
+#: plugin-fw/templates/panel/premium-tab-content.php:59
+msgctxt "Premium Tab"
+msgid "...and so much more!"
+msgstr "... ¡y mucho más!"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:977
+msgctxt "Premium tab name"
+msgid "Get premium"
+msgstr "Hazte premium"
+
+#. Translators: %1$f: Table size, %2$f: Index size, %3$f: Free size, %4$s
+#. Engine.
+#: plugin-fw/templates/sysinfo/tabs/main.php:174
+msgid "Data: %1$.2fMB | Index: %2$.2fMB | Free: %3$.2fMB | Engine: %4$s"
+msgstr "Datos: %1$.2f MB | Índice: %2$.2f MB | Libre: %3$.2f MB | Motor: %4$s"
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:160
+msgid "Database Free Size"
+msgstr "Tamaño libre de la base de datos"
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:152
+msgid "Database Index Size"
+msgstr "Tamaño del índice de la base de datos"
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:144
+msgid "Database Data Size"
+msgstr "Tamaño de los datos de la base de datos"
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:136
+msgid "Total Database Size"
+msgstr "Tamaño total de la base de datos"
+
+#. Translators: %s: Codex link.
+#: plugin-fw/templates/sysinfo/tabs/main.php:129
+msgid "WordPress requirements"
+msgstr "Requisitos de WordPress"
+
+#. Translators: %s: Codex link.
+#: plugin-fw/templates/sysinfo/tabs/main.php:129
+msgid "WordPress recommends a minimum MySQL version of 5.6. See: %s"
+msgstr "WordPress recomienda, como mínimo, la versión 5.6 de MySQL. Ver: %s"
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:119
+msgid "MySQL version"
+msgstr "Versión de MySQL"
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:114
+msgid "Database Info"
+msgstr "Información de la base de datos"
+
+#. translators: %s is the name of the plugin that is loading the framework.
+#: plugin-fw/templates/sysinfo/tabs/main.php:68
+msgid "loaded by %s"
+msgstr "cargado por %s"
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:59
+msgid "YITH Plugin Framework Version"
+msgstr "Versión del framework del plugin de YITH"
+
+#: plugin-fw/templates/panel/help-tab.php:204
+msgctxt "Help tab submit ticket button"
+msgid "Submit a ticket"
+msgstr "Enviar un tique"
+
+#: plugin-fw/templates/panel/help-tab.php:196
+msgctxt "Help tab submit ticket description"
+msgid "If you are experiencing any technical issues, ask for help from our developers. Submit a ticket through our support desk and we will help you as soon as possible."
+msgstr "Si estás experimentando algún problema técnico, pide ayuda a nuestros desarrolladores. Envía un tique en nuestro servicio de soporte y te ayudaremos lo antes posible."
+
+#: plugin-fw/templates/panel/help-tab.php:193
+msgctxt "Help tab submit ticket title"
+msgid "Need help?"
+msgstr "¿Necesitas ayuda?"
+
+#: plugin-fw/templates/panel/help-tab.php:184
+msgctxt "Help tab FAQ link"
+msgid "View all FAQs >"
+msgstr "Ver todas las FAQ >"
+
+#: plugin-fw/templates/panel/help-tab.php:170
+msgctxt "Help tab FAQ title"
+msgid "Last FAQs in our Help Center"
+msgstr "Últimas FAQ en nuestro centro de ayuda"
+
+#: plugin-fw/templates/panel/help-tab.php:155
+msgctxt "Help tab view FAQs link"
+msgid "to find answers to your doubts."
+msgstr "para encontrar respuestas a tus dudas."
+
+#: plugin-fw/templates/panel/help-tab.php:152
+msgctxt "Help tab view FAQs link"
+msgid "Check the FAQs"
+msgstr "Consulta las FAQ"
+
+#: plugin-fw/templates/panel/help-tab.php:139
+msgctxt "Help tab Watch video tutorials link"
+msgid "Watch our video tutorials"
+msgstr "Mira nuestros tutoriales en vídeo"
+
+#: plugin-fw/templates/panel/help-tab.php:126
+msgctxt "Help tab Read Documentation link"
+msgid "Read the documentation"
+msgstr "Lee la documentación"
+
+#: plugin-fw/templates/panel/help-tab.php:96
+msgctxt "Help tab Watch Videotutorials link"
+msgid "Videos are also available in:"
+msgstr "Los vídeos también están disponibles en:"
+
+#. translators: 1. Url to EN playlist.
+#: plugin-fw/templates/panel/help-tab.php:89
+msgctxt "Help tab view all video link"
+msgid "Check the full <a href=\"%s\" target=\"_blank\">Playlist on Youtube</a> to learn more >"
+msgstr "Consulta la <a href=\"%s\" target=\"_blank\">lista de reproducción completa en YouTube</a> para saber más >"
+
+#: plugin-fw/templates/fields/image-dimensions.php:23
+msgctxt "Image height field label"
+msgid "Height"
+msgstr "Altura"
+
+#: plugin-fw/templates/fields/image-dimensions.php:18
+msgctxt "Image width field label"
+msgid "Width"
+msgstr "Anchura"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:929
+msgctxt "Help tab default description"
+msgid "We want to help you enjoy a wonderful experience with all of our products."
+msgstr "Queremos ayudarte a disfrutar de una experiencia maravillosa con todos nuestros productos."
+
+#. translators: 1. Plugin name.
+#: plugin-fw/includes/class-yit-plugin-panel.php:920
+msgctxt "Help tab default title"
+msgid "Thank you for purchasing %s!"
+msgstr "¡Gracias por comprar %s!"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1007
+msgctxt "Help tab name"
+msgid "Help"
+msgstr "Ayuda"
+
+#: plugin-fw/includes/class-yit-help-desk.php:148
+msgid "There was an error with your request; please try again later."
+msgstr "Ha habido un error con tu solicitud. Por favor, inténtalo de nuevo más tarde."
+
+#: plugin-fw/includes/class-yit-assets.php:241
+msgid "Are you sure you want to delete the selected items?"
+msgstr "¿Seguro que quieres borrar los elementos seleccionados?"
+
+#: includes/admin/views/panel/shortcode-configuration.php:59
+#: plugin-fw/includes/class-yit-assets.php:238 plugin-fw/yit-functions.php:1996
+msgctxt "Trash confirmation action"
+msgid "Yes, move to trash"
+msgstr "Sí, mover a la papelera"
+
+#: plugin-fw/includes/class-yit-assets.php:237
+msgid "Are you sure you want to trash the selected items?"
+msgstr "¿Seguro que quieres mover a la papelera los elementos seleccionados?"
+
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:31
+msgid "Options Saved"
+msgstr "Opciones guardadas"
+
+#: plugin-fw/templates/panel/v2/panel-content-page.php:57
+#: plugin-fw/templates/panel/v2/woocommerce/woocommerce-form.php:69
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:27
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:31
+msgid "Save Options"
+msgstr "Guardar opciones"
+
+#: plugin-fw/includes/class-yit-assets.php:225
+msgctxt "Button text"
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: plugin-fw/includes/class-yit-assets.php:224
+msgctxt "Button text"
+msgid "Confirm"
+msgstr "Confirmar"
+
+#. translators: %s is the name of the post type (example Back to "Membership
+#. Plans").
+#: plugin-fw/includes/class-yith-post-type-admin.php:294
+msgid "Back to the list"
+msgstr "Volver a la lista"
+
+#. translators: %s is the name of the post type (example Back to "Membership
+#. Plans").
+#: plugin-fw/includes/class-yith-post-type-admin.php:294
+msgid "Back to \"%s\""
+msgstr "Volver a «%s»"
+
+#: plugin-fw/yit-functions.php:2131
+msgctxt "Term action"
+msgid "Delete"
+msgstr "Eliminar"
+
+#: plugin-fw/yit-functions.php:2118
+msgctxt "Term action"
+msgid "Duplicate"
+msgstr "Duplicar"
+
+#: plugin-fw/yit-functions.php:2110
+msgctxt "Term action"
+msgid "Edit"
+msgstr "Editar"
+
+#: plugin-fw/yit-functions.php:2100
+msgctxt "Term action"
+msgid "View"
+msgstr "Ver"
+
+#: plugin-fw/yit-functions.php:2025 plugin-fw/yit-functions.php:2033
+#: plugin-fw/yit-functions.php:2149
+msgid "Further actions"
+msgstr "Más acciones"
+
+#: plugin-fw/includes/class-yit-assets.php:242 plugin-fw/yit-functions.php:2014
+#: plugin-fw/yit-functions.php:2140
+msgctxt "Delete confirmation action"
+msgid "Yes, delete"
+msgstr "Sí, borrar"
+
+#: plugin-fw/includes/class-yit-assets.php:240 plugin-fw/yit-functions.php:2011
+#: plugin-fw/yit-functions.php:2138
+msgid "Confirm delete"
+msgstr "Confirmar borrado"
+
+#: plugin-fw/yit-functions.php:2004
+msgctxt "Post action"
+msgid "Delete Permanently"
+msgstr "Eliminar permanentemente"
+
+#: plugin-fw/includes/class-yit-assets.php:236 plugin-fw/yit-functions.php:1993
+msgid "Confirm trash"
+msgstr "Confirmar el envío a la papelera"
+
+#: plugin-fw/yit-functions.php:1987
+msgctxt "Post action"
+msgid "Trash"
+msgstr "Enviar a la Papelera"
+
+#: plugin-fw/yit-functions.php:1979
+msgctxt "Post action"
+msgid "Restore"
+msgstr "Restaurar"
+
+#: plugin-fw/yit-functions.php:1967
+msgctxt "Post action"
+msgid "Duplicate"
+msgstr "Duplicar"
+
+#: plugin-fw/yit-functions.php:1959
+msgctxt "Post action"
+msgid "Edit"
+msgstr "Editar"
+
+#: plugin-fw/yit-functions.php:1948
+msgctxt "Post action"
+msgid "View"
+msgstr "Ver"
+
+#: plugin-fw/yit-functions.php:1939
+msgctxt "Post action"
+msgid "Preview"
+msgstr "Vista previa"
+
+#. translators: %s is the title of the post object.
+#: plugin-fw/includes/class-yit-assets.php:241 plugin-fw/yit-functions.php:1927
+#: plugin-fw/yit-functions.php:2086
+msgid "This action cannot be undone and you will not be able to recover this data."
+msgstr "Esta acción no se puede deshacer y no podrás recuperar estos datos."
+
+#. translators: %s is the title of the post object.
+#: plugin-fw/yit-functions.php:1927 plugin-fw/yit-functions.php:2086
+msgid "Are you sure you want to delete \"%s\"?"
+msgstr "¿Estás seguro de que quieres eliminar \"%s\"?"
+
+#. translators: %s is the title of the post object.
+#: plugin-fw/yit-functions.php:1925
+msgid "Are you sure you want to move \"%s\" to trash?"
+msgstr "¿Estás seguro de que quieres mover a la papelera «%s»?"
+
+#: plugin-fw/templates/panel/panel-header.php:26
+#: plugin-fw/templates/panel/v2/panel-header.php:21
+msgid "help us by leaving a good review"
+msgstr "ayúdanos dejando una buena valoración"
+
+#: plugin-fw/templates/fields/copy-to-clipboard.php:45
+msgctxt "Copy-to-clipboard button text"
+msgid "Copy"
+msgstr "Copiar"
+
+#: plugin-fw/templates/fields/copy-to-clipboard.php:41
+msgctxt "Copy-to-clipboard message"
+msgid "Copied!"
+msgstr "¡Copiado!"
+
+#. translators: %s it the Elementor Widget title.
+#: plugin-fw/includes/builders/elementor/class-yith-elementor-widget.php:252
+msgctxt "Elementor Widget - section title"
+msgid "%s - Options"
+msgstr "%s - Opciones"
+
+#: plugin-fw/templates/fields/date-format.php:70
+msgid "Preview:"
+msgstr "Vista previa:"
+
+#: plugin-fw/includes/class-yit-pointers.php:97
+msgid "From now on, you can find the option panel of YITH plugins in YITH menu. Every time one of our plugins is added, a new entry will be added to this menu. For example, after the update, plugin options (such as for YITH WooCommerce Wishlist, YITH WooCommerce Ajax Search, etc.) will be moved from previous location to YITH menu."
+msgstr "A partir de ahora, puedes encontrar el panel de opciones de los plugins de YITH en el menú de plugins de YITH. Cada vez que se añade uno de nuestros plugins, se añadirá una nueva entrada a este menú. Por ejemplo, después de la actualización, las opciones del plugin (como para YITH WooCommerce Wishlist, YITH WooCommerce Ajax Search, etc.) se moverán de la ubicación anterior a la pestaña de plugins de YITH."
+
+#. translators: 1. YITH site link; 2. WordPress site link.
+#: plugin-fw/includes/class-yit-pointers.php:84
+#: plugin-fw/includes/class-yit-pointers.php:100
+msgid "Discover all our plugins available on: %1$s and %2$s"
+msgstr "Descubre todos nuestros plugins disponibles en: %1$s y %2$s"
+
+#: plugin-fw/includes/class-yit-pointers.php:81
+msgid "From now on, you can find all plugin options in YITH menu. Plugin customization settings will be available as a new entry in YITH menu."
+msgstr "A partir de ahora, puedes encontrar todas las opciones del plugin en el menú de plugins de YITH. Los ajustes de personalización del plugin estarán disponibles como una nueva entrada en el menú de plugins de YITH."
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:79
+msgid "Plugins Requirements"
+msgstr "Requisitos de los plugins"
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:21
+msgid "Site Info"
+msgstr "Información del sitio"
+
+#: plugin-fw/templates/sysinfo/tabs/error-log.php:107
+msgid "Copy Code"
+msgstr "Copiar el código"
+
+#: plugin-fw/templates/sysinfo/tabs/error-log.php:107
+msgid "Copied!"
+msgstr "¡Copiado!"
+
+#. translators: %s file name.
+#: plugin-fw/templates/sysinfo/tabs/error-log.php:98
+msgid "No Log file available. Enable the WordPress debug by adding this in the %s file of your installation"
+msgstr "No hay disponible ningún archivo de registro. Activa la depuración de WordPress añadiendo esto en el archivo «%s» de tu instalación"
+
+#: plugin-fw/templates/sysinfo/tabs/error-log.php:74
+msgid "The file size exceeds 8 megabytes so it must be downloaded"
+msgstr "El tamaño del archivo supera los 8 megabytes, por lo que debe ser descargado"
+
+#: plugin-fw/templates/sysinfo/tabs/error-log.php:61
+msgid "Download"
+msgstr "Descargar"
+
+#: plugin-fw/templates/sysinfo/system-information-panel.php:13
+#: plugin-fw/templates/sysinfo/tabs/error-log.php:26
+msgid "Log Files"
+msgstr "Archivos de registro"
+
+#: plugin-fw/templates/sysinfo/system-information-panel.php:12
+msgid "PHPInfo"
+msgstr "Información de PHP"
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:51
+msgid "External object cache"
+msgstr "Caché de objeto externo"
+
+#: plugin-fw/includes/class-yit-assets.php:278
+msgid "Color value"
+msgstr "Valor del color"
+
+#: plugin-fw/includes/class-yit-assets.php:277
+msgid "Select Color"
+msgstr "Seleccionar el color"
+
+#: plugin-fw/includes/class-yit-assets.php:276
+msgid "Select default color"
+msgstr "Seleccionar el color por defecto"
+
+#: includes/class-yith-wcas-settings.php:357
+#: includes/legacy/elementor/class-yith-wcas-search-form-elementor.php:103
+#: plugin-fw/includes/class-yit-assets.php:275
+msgid "Default"
+msgstr "Por defecto"
+
+#: plugin-fw/includes/class-yit-assets.php:274
+msgid "Clear color"
+msgstr "Vaciar el color"
+
+#: plugin-fw/includes/class-yit-assets.php:273
+msgid "Clear"
+msgstr "Vaciar"
+
+#. translators: %1$s TLS label
+#: plugin-fw/includes/class-yith-system-status.php:599
+msgid "The system check cannot determine which %1$s version is installed due to a connection issue between your site and our server."
+msgstr "La comprobación del sistema no ha podido determinar qué versión %1$s está instalada debido a un problema de conexión entre tu sitio y nuestro servidor."
+
+#. translators: %1$s TLS label, %2$s cURL label
+#: plugin-fw/includes/class-yith-system-status.php:596
+msgid "The system check cannot determine which %1$s version is installed because %2$s module is disabled. Ask your hosting company to enable it."
+msgstr "La comprobación del sistema no ha podido determinar qué versión %1$s está instalada, ya que está desactivado el módulo %2$s. Pídele a tu empresa de alojamiento que lo active."
+
+#: plugin-fw/includes/class-yith-system-status.php:550
+msgid "Contact your hosting company in order to install it."
+msgstr "Contacta con tu empresa de alojamiento para instalarlo."
+
+#: includes/admin/views/panel/shortcode-configuration.php:58
+#: plugin-fw/includes/class-yit-assets.php:239
+#: plugin-fw/includes/class-yit-assets.php:243
+#: plugin-fw/templates/sysinfo/tabs/main.php:46
+#: plugin-fw/templates/sysinfo/tabs/main.php:54
+#: plugin-fw/yit-functions.php:1995 plugin-fw/yit-functions.php:2013
+msgid "No"
+msgstr "No"
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:46
+#: plugin-fw/templates/sysinfo/tabs/main.php:54
+msgid "Yes"
+msgstr "Sí"
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:43
+msgid "Defined WP_CACHE"
+msgstr "WP_CACHE definido"
+
+#: plugin-fw/templates/sysinfo/tabs/error-log.php:18
+msgid "PHP error_log file"
+msgstr "Archivo «error_log» de PHP"
+
+#: plugin-fw/templates/sysinfo/tabs/error-log.php:13
+msgid "WP debug.log file"
+msgstr "Archivo «debug.log» de WP"
+
+#: plugin-fw/templates/fields/dimensions.php:94
+msgctxt "Tooltip in the \"Dimensions\" field"
+msgid "Link values together"
+msgstr "Enlazar los valores juntos"
+
+#: plugin-fw/templates/fields/dimensions.php:16
+msgctxt "Position in the \"Dimensions\" field"
+msgid "Left"
+msgstr "Izquierda"
+
+#: plugin-fw/templates/fields/dimensions.php:15
+msgctxt "Position in the \"Dimensions\" field"
+msgid "Bottom"
+msgstr "Inferior"
+
+#: plugin-fw/templates/fields/dimensions.php:14
+msgctxt "Position in the \"Dimensions\" field"
+msgid "Right"
+msgstr "Derecha"
+
+#: plugin-fw/templates/fields/dimensions.php:13
+msgctxt "Position in the \"Dimensions\" field"
+msgid "Top"
+msgstr "Superior"
+
+#: includes/legacy/elementor/class-yith-wcas-search-form-elementor.php:90
+msgid "here"
+msgstr "aquí"
+
+#: includes/legacy/elementor/class-yith-wcas-search-form-elementor.php:88
+msgid "This widget inherits the style from the settings of the YITH WooCommerce Ajax Search plugin that you can edit"
+msgstr "Este widget obtiene el estilo de los ajustes del plugin YITH WooCommerce Ajax Search que puedes editar"
+
+#: plugin-fw/templates/panel/panel-header.php:27
+#: plugin-fw/templates/panel/v2/panel-header.php:22
+msgid ":) Thanks!"
+msgstr ":) ¡Gracias!"
+
+#: plugin-fw/templates/panel/panel-header.php:24
+#: plugin-fw/templates/panel/v2/panel-header.php:19
+msgid "to keep updating and improving the plugin. Please,"
+msgstr "para seguir actualizando y manteniendo el plugin. Por favor,"
+
+#: plugin-fw/templates/panel/panel-header.php:23
+#: plugin-fw/templates/panel/v2/panel-header.php:18
+msgid "We need your support"
+msgstr "Necesitamos tu apoyo"
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:35
+msgid "Output IP Address"
+msgstr "Dirección IP de salida"
+
+#: plugin-fw/templates/sysinfo/tabs/main.php:26
+msgid "Site URL"
+msgstr "URL del sitio"
+
+#. translators: 1. user display name; 2. user ID; 3. user email.
+#: plugin-fw/templates/fields/ajax-customers.php:68
+#: plugin-fw/templates/fields/ajax-customers.php:79
+msgid "%1$s (#%2$s &ndash; %3$s)"
+msgstr "%1$s (#%2$s &ndash; %3$s)"
+
+#: plugin-fw/includes/class-yith-system-status.php:487
+msgid "N/A"
+msgstr "N/D"
+
+#: plugin-fw/includes/class-yith-system-status.php:117
+msgid "Iconv Module"
+msgstr "Módulo Iconv"
+
+#. translators: %1$s open link tag, %2$s open link tag
+#: plugin-fw/includes/class-yith-system-status.php:336
+msgid "The system check has detected some compatibility issues on your installation.%1$sClick here%2$s to know more"
+msgstr "La comprobación del sistema ha detectado algunos problemas de compatibilidad en tu instalación. Haz %1$sclic aquí%2$s para saber más"
+
+#: plugin-fw/includes/class-yith-system-status.php:332
+msgid "Warning!"
+msgstr "¡Advertencia!"
+
+#: plugin-fw/includes/class-yith-system-status.php:185
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: plugin-fw/includes/class-yith-system-status.php:119
+msgid "URL FOpen"
+msgstr "URL de FOpen"
+
+#: plugin-fw/includes/class-yith-system-status.php:118
+msgid "OPCache Save Comments"
+msgstr "Guardar comentarios OPCache"
+
+#: plugin-fw/includes/class-yith-system-status.php:116
+msgid "GD Library"
+msgstr "Biblioteca GD"
+
+#: plugin-fw/includes/class-yith-system-status.php:115
+msgid "ImageMagick Version"
+msgstr "Versión de ImageMagick"
+
+#: plugin-fw/includes/class-yith-system-status.php:114
+msgid "MultiByte String"
+msgstr "Cadena MultiByte"
+
+#: plugin-fw/includes/class-yith-system-status.php:113
+msgid "SimpleXML"
+msgstr "SimpleXML"
+
+#: plugin-fw/includes/class-yith-system-status.php:112
+msgid "WordPress Cron"
+msgstr "Cron de WordPress"
+
+#: plugin-fw/includes/class-yith-system-status.php:111
+msgid "TLS Version"
+msgstr "Versión de TLS"
+
+#: plugin-fw/includes/class-yith-system-status.php:110
+msgid "PHP Version"
+msgstr "Versión de PHP"
+
+#: plugin-fw/includes/class-yith-system-status.php:109
+msgid "Available Memory"
+msgstr "Memoria disponible"
+
+#: plugin-fw/includes/class-yith-system-status.php:108
+msgid "WooCommerce Version"
+msgstr "Versión de WooCommerce"
+
+#: plugin-fw/includes/class-yith-system-status.php:107
+msgid "WordPress Version"
+msgstr "Versión de WordPress"
+
+#: plugin-fw/includes/class-yith-system-status.php:136
+#: plugin-fw/includes/class-yith-system-status.php:137
+#: plugin-fw/templates/sysinfo/system-information-panel.php:11
+msgid "System Status"
+msgstr "Estado del sistema"
+
+#. translators: %1$s opening link tag, %2$s closing link tag
+#: plugin-fw/includes/class-yith-system-status.php:569
+#: plugin-fw/includes/class-yith-system-status.php:591
+msgid "Read more %1$shere%2$s or contact your hosting company in order to increase it."
+msgstr "Lee más %1$saquí%2$s o contacta con tu empresa de alojamiento para aumentarlo."
+
+#: plugin-fw/includes/class-yith-system-status.php:565
+msgid "Contact your hosting company in order to enable it."
+msgstr "Contacta con tu empresa de alojamiento para activarlo."
+
+#. translators: %1$s code, %2$s file name
+#: plugin-fw/includes/class-yith-system-status.php:557
+msgid "Remove %1$s from %2$s file"
+msgstr "Eliminar %1$s del archivo %2$s"
+
+#: plugin-fw/includes/class-yith-system-status.php:546
+#: plugin-fw/includes/class-yith-system-status.php:552
+msgid "Contact your hosting company in order to update it."
+msgstr "Contacta con tu empresa de alojamiento para actualizarlo."
+
+#: plugin-fw/includes/class-yith-system-status.php:542
+msgid "Update it to the latest version in order to benefit of all new features and security updates."
+msgstr "Actualízalo a la última versión para poder beneficiarte de todas las nuevas características y actualizaciones de seguridad."
+
+#. translators: %1$s plugin name, %2$s version number
+#: plugin-fw/includes/class-yith-system-status.php:519
+msgid "%1$s needs at least %2$s version"
+msgstr "%1$s necesita, al menos, la versión %2$s"
+
+#. translators: %s recommended memory amount
+#: plugin-fw/includes/class-yith-system-status.php:588
+msgid "For optimal functioning of our plugins, we suggest setting at least %s of available memory"
+msgstr "Para el óptimo funcionamiento de nuestros plugins, sugerimos establecer, al menos, %s de memoria disponible"
+
+#. translators: %1$s plugin name, %2$s required memory amount
+#: plugin-fw/includes/class-yith-system-status.php:516
+msgid "%1$s needs at least %2$s of available memory"
+msgstr "%1$s necesita, al menos, %2$s de memoria disponible"
+
+#. translators: %1$s plugin name, %2$s requirement name
+#: plugin-fw/includes/class-yith-system-status.php:513
+msgid "%1$s needs %2$s enabled"
+msgstr "%1$s necesita que %2$s esté activado"
+
+#: plugin-fw/includes/class-yith-system-status.php:482
+msgid "Disabled"
+msgstr "Desactivado"
+
+#: plugin-fw/includes/class-yith-system-status.php:482
+msgid "Enabled"
+msgstr "Activado"
+
+#: plugin-fw/templates/sysinfo/system-information-panel.php:28
+msgid "YITH System Information"
+msgstr "Información del sistema de YITH"
+
+#: plugin-fw/templates/fields/select-buttons.php:20
+msgid "Remove All"
+msgstr "Eliminar todo"
+
+#: plugin-fw/templates/fields/select-buttons.php:19
+msgid "Add All"
+msgstr "Añadir todo"
+
+#: plugin-fw/templates/fields/date-format.php:65
+msgid "Custom:"
+msgstr "Personalizado:"
+
+#: plugin-fw/includes/class-yith-dashboard.php:137
+msgctxt "Button label"
+msgid "Close"
+msgstr "Cerrar"
+
+#: plugin-fw/includes/class-yith-dashboard.php:97
+msgctxt "Plugin FW"
+msgid "Latest update released on"
+msgstr "Última actualización publicada el"
+
+#: plugin-fw/includes/class-yith-dashboard.php:96
+msgctxt "Plugin FW"
+msgid "View Changelog"
+msgstr "Ver el registro de cambios"
+
+#: plugin-fw/includes/class-yith-dashboard.php:63
+msgid "An error has occurred, which probably means the feed is down. Try again later."
+msgstr "Ha ocurrido un error, lo que puede significar que el feed está caído. Inténtalo de nuevo más tarde."
+
+#: plugin-fw/includes/class-yith-dashboard.php:56
+msgid "RSS Error:"
+msgstr "Error RSS:"
+
+#: plugin-fw/includes/class-yith-dashboard.php:36
+msgid "Latest news from YITH Blog"
+msgstr "Últimas novedades del blog de YITH"
+
+#: plugin-fw/includes/class-yith-dashboard.php:35
+msgid "YITH Latest Updates"
+msgstr "Últimas actualizaciones de YITH"
+
+#: includes/legacy/class-yith-wcas-legacy-manager.php:66
+msgctxt "[gutenberg]: keywords"
+msgid "Search"
+msgstr "Búsqueda"
+
+#: includes/legacy/class-yith-wcas-legacy-manager.php:65
+msgctxt "[gutenberg]: keywords"
+msgid "Ajax Search"
+msgstr "Ajax Search"
+
+#: includes/legacy/class-yith-wcas-legacy-manager.php:61
+msgctxt "[gutenberg]: block description"
+msgid "Show Ajax Search Form"
+msgstr "Muestra el formulario de Ajax Search"
+
+#: plugin-fw/includes/builders/gutenberg/class-yith-gutenberg.php:156
+msgctxt "[gutenberg]: Category Name"
+msgid "YITH"
+msgstr "YITH"
+
+#. Author of the plugin
+#: init.php
+msgid "YITH"
+msgstr "YITH"
+
+#. Description of the plugin
+#: init.php
+msgid "<code><strong>YITH WooCommerce Ajax Search</strong></code> is the plugin that allows you to search for a specific product by inserting a few characters. Thanks to <strong>Ajax Search</strong>, users can quickly find the contents they are interested in without wasting time among site pages. <a href=\"https://yithemes.com/\" target=\"_blank\">Get more plugins for your e-commerce shop on <strong>YITH</strong></a>."
+msgstr "<code><strong>YITH WooCommerce Ajax Search</strong></code> es el plugin que permite buscar un producto específico insertando unos pocos caracteres. Gracias a <strong>Ajax Search</strong>, los usuarios pueden encontrar rápidamente los contenidos que les interesan sin perder tiempo entre las páginas del sitio. <a href=\"https://yithemes.com/\" target=\"_blank\">Consigue más plugins para tu tienda de comercio electrónico en <strong>YITH</strong></a>."
+
+#. Plugin URI of the plugin
+#: init.php
+msgid "https://yithemes.com/themes/plugins/yith-woocommerce-ajax-search/"
+msgstr "https://yithemes.com/themes/plugins/yith-woocommerce-ajax-search/"
+
+#: plugin-fw/yit-plugin.php:242
+msgid "License"
+msgstr "Licencia"
+
+#: plugin-fw/yit-plugin.php:238
+msgctxt "Action links"
+msgid "Settings"
+msgstr "Ajustes"
+
+#: plugin-fw/yit-plugin.php:97
+msgctxt "Plugin Row Meta"
+msgid "Premium version"
+msgstr "Versión premium"
+
+#: plugin-fw/yit-plugin.php:93
+msgctxt "Plugin Row Meta"
+msgid "Support"
+msgstr "Soporte"
+
+#: plugin-fw/yit-plugin.php:89
+msgctxt "Plugin Row Meta"
+msgid "Documentation"
+msgstr "Documentación"
+
+#: plugin-fw/yit-plugin.php:85
+msgctxt "Plugin Row Meta"
+msgid "Live Demo"
+msgstr "Demostración en vivo"
+
+#: plugin-fw/includes/privacy/class-yith-privacy.php:106
+msgctxt "Privacy Policy Content"
+msgid "Payments"
+msgstr "Pagos"
+
+#: plugin-fw/includes/privacy/class-yith-privacy.php:103
+msgctxt "Privacy Policy Content"
+msgid "What we share with others"
+msgstr "Qué compartimos con otros"
+
+#: plugin-fw/includes/privacy/class-yith-privacy.php:100
+msgctxt "Privacy Policy Content"
+msgid "Who on our team has access"
+msgstr "Quién tiene acceso en nuestro equipo"
+
+#: plugin-fw/includes/privacy/class-yith-privacy.php:97
+msgctxt "Privacy Policy Content"
+msgid "What we collect and store"
+msgstr "Qué recopilamos y almacenamos"
+
+#: plugin-fw/includes/privacy/class-yith-privacy.php:93
+msgctxt "Privacy Policy Content"
+msgid "This sample language includes the basics around what personal data your store may be collecting, storing and sharing, as well as who may have access to that data. Depending on what settings are enabled and which additional plugins are used, the specific information shared by your store will vary. We recommend consulting with a lawyer when deciding what information to disclose on your privacy policy."
+msgstr "Este idioma de ejemplo incluye los conceptos básicos sobre qué datos personales puede estar recopilando, almacenando y compartiendo tu tienda, así como quién puede tener acceso a esos datos. Dependiendo de qué ajustes estén activados y qué plugins adicionales se usen, la información específica compartida por tu tienda variará. Recomendamos consultar con un abogado cuando decidas qué información publicar en tu política de privacidad."
+
+#: plugin-fw/includes/privacy/class-yith-privacy.php:61
+msgctxt "Privacy Policy Guide Title"
+msgid "YITH Plugins"
+msgstr "Plugins de YITH"
+
+#: plugin-fw/templates/fields/icons.php:78
+msgid "Set Default"
+msgstr "Establecer por defecto"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:559
+#: plugin-fw/includes/class-yit-plugin-panel.php:562
+msgid "How to install premium version"
+msgstr "Cómo instalar la versión premium"
+
+#: includes/admin/views/panel/statistic-filter.php:57
+#: plugin-fw/templates/fields/upload.php:39
+msgid "Reset"
+msgstr "Restablecer"
+
+#. Author URI of the plugin
+#: init.php
+msgid "https://yithemes.com/"
+msgstr "https://yithemes.com/"
+
+#: includes/legacy/class-yith-wcas-ajax-search.php:95
+msgid "Title:"
+msgstr "Título:"
+
+#: includes/class-yith-wcas-search-widget.php:31
+#: includes/legacy/class-yith-wcas-ajax-search.php:30
+msgid "An Ajax Search box for products only."
+msgstr "Una casilla de Ajax Search solo para productos."
+
+#: templates/yith-woocommerce-ajax-search.php:20
+msgid "Search for:"
+msgstr "Buscar:"
+
+#: includes/class-yith-wcas-settings.php:378
+#: assets/js/blocks/build/search-blocks/input-block-frontend.js:1
+#: assets/js/blocks/build/search-blocks/input-block-style.js:1
+#: plugin-fw/dist/lapilli-ui/components/index.js:1
+msgid "Search"
+msgstr "Buscar"
+
+#: includes/class-yith-wcas-settings.php:363
+#: includes/class-yith-wcas-settings.php:536
+msgid "Search for products..."
+msgstr "Buscar productos..."
+
+#: plugin-fw/templates/panel/v2/panel-content-page.php:58
+#: plugin-fw/templates/panel/v2/woocommerce/woocommerce-form.php:70
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:41
+msgid "Reset Defaults"
+msgstr "Restablecer los valores por defecto"
+
+#: plugin-fw/templates/fields/sidebars.php:54
+msgid "Right Sidebar"
+msgstr "Barra lateral derecha"
+
+#: plugin-fw/templates/fields/sidebars.php:39
+msgid "Left Sidebar"
+msgstr "Barra lateral izquierda"
+
+#: plugin-fw/templates/fields/sidebars.php:41
+#: plugin-fw/templates/fields/sidebars.php:56
+msgid "Choose a sidebar"
+msgstr "Elige una barra lateral"
+
+#: plugin-fw/templates/fields/sidebars.php:23
+msgid "Right sidebar"
+msgstr "Barra lateral derecha"
+
+#: plugin-fw/templates/fields/sidebars.php:26
+#: plugin-fw/templates/fields/sidebars.php:29
+msgid "No sidebar"
+msgstr "Sin barra lateral"
+
+#: plugin-fw/templates/fields/sidebars.php:20
+msgid "Left sidebar"
+msgstr "Barra lateral izquierda"
+
+#: plugin-fw/templates/fields/image-gallery.php:26
+#: plugin-fw/templates/fields/image-gallery.php:37
+msgid "Delete"
+msgstr "Borrar"
+
+#: plugin-fw/templates/fields/image-gallery.php:35
+msgid "Add images"
+msgstr "Añadir imágenes"
+
+#: plugin-fw/templates/fields/image-gallery.php:34
+msgid "Add to gallery"
+msgstr "Añadir a la galería"
+
+#: plugin-fw/templates/fields/image-gallery.php:33
+msgid "Add Images to Gallery"
+msgstr "Añadir imágenes a la galería"
+
+#: plugin-fw/templates/fields/image-gallery.php:36
+msgid "Delete image"
+msgstr "Borrar la imagen"
+
+#: plugin-fw/templates/fields/customtabs.php:93
+msgid "Do you want to remove the custom tab?"
+msgstr "¿Quieres eliminar la pestaña personalizada?"
+
+#: plugin-fw/templates/fields/customtabs.php:52
+msgid "Add custom product tab"
+msgstr "Añadir una pestaña de producto personalizada"
+
+#: plugin-fw/templates/fields/customtabs.php:41
+#: plugin-fw/templates/fields/customtabs.php:82
+msgid "Content of the tab. (HTML is supported)"
+msgstr "Contenido de la pestaña. (Compatible con HTML)"
+
+#: plugin-fw/templates/fields/customtabs.php:40
+#: plugin-fw/templates/fields/customtabs.php:81
+msgid "Value"
+msgstr "Valor"
+
+#: plugin-fw/templates/fields/customtabs.php:17
+msgid "Expand all"
+msgstr "Ampliar todo"
+
+#: plugin-fw/templates/fields/customtabs.php:17
+msgid "Close all"
+msgstr "Cerrar todo"
+
+#: plugin-fw/templates/fields/upload.php:34
+#: plugin-fw/templates/panel/woocommerce/woocommerce-upload.php:37
+msgid "Upload"
+msgstr "Subir"
+
+#: languages/js-i18n.php:63 assets/js/blocks/build/search-block.js:1
+msgid "Icon"
+msgstr "Icono"
+
+#: includes/legacy/elementor/class-yith-wcas-search-form-elementor.php:112
+msgid "Class"
+msgstr "Clase"
+
+#: plugin-fw/templates/fields/customtabs.php:25
+#: plugin-fw/templates/fields/customtabs.php:68
+msgid "Remove"
+msgstr "Eliminar"
+
+#: plugin-fw/templates/fields/ajax-products.php:16
+msgid "Search for a product..."
+msgstr "Buscar un producto…"
+
+#: plugin-fw/includes/class-yit-pointers.php:96
+msgid "Plugins Upgraded"
+msgstr "Plugins actualizados"
+
+#: plugin-fw/includes/class-yit-pointers.php:80
+msgid "Plugins Activated"
+msgstr "Plugins activados"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1567
+msgid "Sorting successful."
+msgstr "Ordenado correctamente."
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1566
+msgid "Sorry, import is disabled."
+msgstr "Lo siento, la importación está desactivada."
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1565
+msgid "The added file is not valid."
+msgstr "El archivo añadido no es válido."
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1564
+msgid "An error has occurred during import. Please try again."
+msgstr "Ha ocurrido un error durante la importación. Por favor, inténtalo de nuevo."
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1563
+msgid "Database imported correctly."
+msgstr "Base de datos importada correctamente."
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1561
+msgid "Element updated correctly."
+msgstr "Elemento actualizado correctamente."
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1560
+msgid "Element deleted correctly."
+msgstr "Elemento borrado correctamente."
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1559
+msgid "Settings reset"
+msgstr "Ajustes restablecidos"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1558
+msgid "Settings saved"
+msgstr "Ajustes guardados"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:1557
+msgid "The element you have entered already exists. Please, enter another name."
+msgstr "El elemento que has introducido ya existe. Por favor, introduce otro nombre."
+
+#: includes/class-yith-wcas-assets.php:275
+#: includes/class-yith-wcas-assets.php:280
+#: plugin-fw/includes/class-yit-assets.php:261
+#: plugin-fw/includes/class-yit-plugin-subpanel.php:134
+#: plugin-fw/templates/panel/panel-content-page.php:14
+msgid "Are you sure?"
+msgstr "¿Estás seguro?"
+
+#: plugin-fw/includes/class-yit-plugin-subpanel.php:137
+#: plugin-fw/templates/panel/panel-content-page.php:38
+msgid "Reset to default"
+msgstr "Restablecer los valores por defecto"
+
+#: plugin-fw/includes/class-yit-assets.php:262
+#: plugin-fw/includes/class-yit-plugin-subpanel.php:134
+#: plugin-fw/templates/panel/panel-content-page.php:14
+msgid "If you continue with this action, you will reset all options in this page."
+msgstr "Si continúas con esta acción, restablecerás todas las opciones en esta página."
+
+#: plugin-fw/includes/class-yit-plugin-subpanel.php:127
+#: plugin-fw/templates/panel/panel-content-page.php:29
+msgid "Save Changes"
+msgstr "Guardar los cambios"
+
+#: plugin-fw/includes/class-yith-system-status.php:177
+msgid "YITH Plugins"
+msgstr "Plugins de YITH"
+
+#: plugin-fw/includes/class-yit-plugin-panel.php:89
+msgid "Plugin Settings"
+msgstr "Ajustes del plugin"
+
+#: plugin-fw/includes/class-yit-plugin-panel-woocommerce.php:605
+msgid "The changes you have made will be lost if you leave this page."
+msgstr "Se perderán los cambios que has hecho si abandonas esta página."
+
+#: includes/admin/views/panel/shortcode-configuration.php:26
+#: includes/admin/views/panel/shortcodes.php:17
+#: includes/class-yith-wcas-settings.php:468
+#: plugin-fw/templates/fields/customtabs.php:34
+#: plugin-fw/templates/fields/customtabs.php:76
+msgid "Name"
+msgstr "Nombre"
+
+#: init.php:108
+msgid "YITH WooCommerce Ajax Search is enabled but not effective. It requires WooCommerce in order to work."
+msgstr "YITH WooCommerce Ajax Search está activo pero no es efectivo. Requiere WooCommerce para funcionar."
+
+#: init.php:57
+msgid "You can't activate the free version of YITH WooCommerce Ajax Search while you are using the premium one."
+msgstr "No puedes activar la versión gratuita de YITH WooCommerce Ajax Search mientras estés usando la premium."
+
+#: includes/legacy/class-yith-wcas-legacy.php:652
+#: plugin-fw/dist/lapilli-ui/components/index.js:1
+msgid "No results"
+msgstr "Sin resultados"
+
+#. Plugin Name of the plugin
+#: init.php includes/class-yith-wcas-search-widget.php:33
+#: includes/legacy/elementor/class-yith-wcas-search-form-elementor.php:41
+#: includes/legacy/elementor/class-yith-wcas-search-form-elementor.php:78
+msgid "YITH WooCommerce Ajax Search"
+msgstr "YITH WooCommerce Ajax Search"
+
+#: languages/js-i18n.php:54 plugin-fw/includes/class-yit-plugin-panel.php:90
+#: assets/js/blocks/build/search-block.js:1
+msgid "Settings"
+msgstr "Ajustes"

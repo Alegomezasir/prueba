@@ -1,0 +1,8 @@
+2024-06-06T11:20:43+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: hit ViewContent
+2024-06-06T11:20:43+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: Missing option "access_token"
+2024-06-06T11:31:16+00:00 DEBUG tt4b_product_delete: missing access token for tt4b_product_sync
+2024-06-06T11:34:02+00:00 DEBUG tt4b_product_delete: missing access token for tt4b_product_sync
+2024-06-06T11:47:59+00:00 DEBUG tt4b_product_delete: missing access token for tt4b_product_sync
+2024-06-06T11:47:59+00:00 DEBUG tt4b_product_delete: missing access token for tt4b_product_sync
+2024-06-06T11:47:59+00:00 DEBUG tt4b_product_delete: missing access token for tt4b_product_sync
+2024-06-06T11:52:35+00:00 DEBUG tt4b_product_delete: missing access token for tt4b_product_sync
